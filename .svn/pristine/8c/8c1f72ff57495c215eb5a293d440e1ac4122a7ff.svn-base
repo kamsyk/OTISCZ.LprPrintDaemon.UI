@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <applicationSettings>
+    <PdfPrint.Properties.Settings>
+      <setting name="PrinterName" serializeAs="String">
+        <value>\\doccentrex\Xerox terminal</value>
+      </setting>
+      <setting name="SourcePdfFolder" serializeAs="String">
+        <value>C:\Temp</value>
+      </setting>
+      <setting name="ArchivePdfFolder" serializeAs="String">
+        <value>C:\Temp\crmtmp</value>
+      </setting>
+    </PdfPrint.Properties.Settings>
+  </applicationSettings>
+</configuration>

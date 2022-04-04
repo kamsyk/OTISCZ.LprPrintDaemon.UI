@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <applicationSettings>
+    <OTISCZ.LprPrintDaemon.Properties.Settings>
+      <setting name="LpdServerIpName" serializeAs="String">
+        <value>10.68.33.53</value>
+      </setting>
+      <setting name="PrinterName" serializeAs="String">
+        <value>RICOH_Terminal</value>
+      </setting>
+      <setting name="SourcePdfFolder" serializeAs="String">
+        <value>c:\temp</value>
+      </setting>
+      <setting name="ArchivePdfFolder" serializeAs="String">
+        <value>C:\Temp\LprArchive</value>
+      </setting>
+    </OTISCZ.LprPrintDaemon.Properties.Settings>
+  </applicationSettings>
+</configuration>

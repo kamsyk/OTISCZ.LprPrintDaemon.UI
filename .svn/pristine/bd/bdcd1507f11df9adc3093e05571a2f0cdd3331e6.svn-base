@@ -1,0 +1,387 @@
+<HTML><HEAD><TITLE>Build Report</TITLE></HEAD><BODY>
+
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="center">
+Build Report</P></B></FONT>
+
+<B><I><FONT FACE="Arial" ><P>
+Summary</P></I></B></FONT>
+
+<TABLE CELLSPACING=0 STYLE="margin-left:20" BORDER=0 CELLPADDING=4 WIDTH=600>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Number of features:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Number of merge modules:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+0
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Number of dynamic links:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+0
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Media:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+DVD-5
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Number of files:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+6
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Uncompressed files total size:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+6.69 MB
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Compressed files total size:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+0.00 MB
+</FONT></P></TD>
+
+</TR>
+
+</TABLE>
+
+<B><I><FONT FACE="Arial" ><P>
+Features</P></I></B></FONT>
+
+<TABLE CELLSPACING=0 STYLE="margin-left:20" BORDER=0 CELLPADDING=4 WIDTH=600>
+
+<TR>
+
+<TD WIDTH="100%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+AlwaysInstall
+</FONT></P></TD>
+
+</TR>
+
+</TABLE>
+
+<B><I><FONT FACE="Arial" ><P>
+Merge  Modules</P></I></B></FONT>
+
+<TABLE CELLSPACING=0 STYLE="margin-left:20" BORDER=0 CELLPADDING=4 WIDTH=600>
+
+</TABLE>
+
+<B><I><FONT FACE="Arial" ><P>
+Dynamic links</P></I></B></FONT>
+
+<TABLE CELLSPACING=0 STYLE="margin-left:20" BORDER=0 CELLPADDING=4 WIDTH=600>
+
+</TABLE>
+
+<B><I><FONT FACE="Arial" ><P>
+Files</P></I></B></FONT>
+
+<TABLE CELLSPACING=0 STYLE="margin-left:20" BORDER=0 CELLPADDING=4 WIDTH=600>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+File
+</I></B></FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+Destination
+</I></B></FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+Feature
+</I></B></FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+Last Modified
+</I></B></FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+Size (bytes)
+</I></B></FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+Version
+</I></B></FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+FoxitReader.exe
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Otis\PdfPrint\Foxit
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+9.3.2009 17:20:50
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+6831360
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+3.0.2009.1506
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+FoxitReader_Preferences.ini
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Otis\PdfPrint\Foxit
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+21.2.2017 13:25:32
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5696
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+lang_hu_hu.xml
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Otis\PdfPrint\Foxit
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1.2.2007 13:10:26
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+76390
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+PdfPrint.exe
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Otis\PdfPrint
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+22.2.2017 8:50:55
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+27648
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1.0.0.0
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+PdfPrint.exe.config
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Otis\PdfPrint
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+21.2.2017 19:35:01
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+499
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+npFoxitReaderPlugin.dll
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Otis\PdfPrint\Foxit\plugins
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+10.4.2009 22:43:42
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+72960
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1.0.0.1
+</FONT></P></TD>
+
+</TR>
+
+</TABLE>
+
+</BODY></HTML>
+

@@ -1,0 +1,1534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reader>
+<Menus>
+<menu id="128">
+<popup id="|0" text="Fájl(&amp;F)">
+<menuitem id="57601" text="Megnyitás...(&amp;O)\tCtrl+O"/>
+<menuitem id="33111" text="PDF konvertálása...(&amp;C)"/>
+<menuitem id="57602" text="Bezárás(&amp;C)\tCtrl+W"/>
+<menuitem id="57603" text="Mentés\tCtrl+S"/>
+<menuitem id="32932" text="Mentés másként...(&amp;A)\tCtrl+Shift+S"/>
+<menuitem id="57607" text="Nyomtatás...(&amp;P)\tCtrl+P"/>
+<menuitem id="57606" text="Nyomtatási beállítások...(&amp;r)"/>
+<menuitem id="57616" text="Legutóbbi fájl"/>
+<menuitem id="32776" text="Tulajdonságok...(&amp;t)"/>
+<menuitem id="57665" text="Kilépés(&amp;x)\tCtrl+Q"/>
+</popup>
+<popup id="|1" text="Szerkesztés(&amp;E)">
+<menuitem id="33112" text="Tartalom módosítása...(&amp;M)"/>
+<menuitem id="57634" text="Másolás(&amp;C)\tCtrl+C"/>
+<menuitem id="57636" text="Szöveg keresése...(&amp;F)\tCtrl+F"/>
+<menuitem id="32903" text="Következő találat(&amp;N)\tF3"/>
+<menuitem id="32985" text="Tulajdonságok...(&amp;P)\tCtrl+K"/>
+</popup>
+<popup id="|2" text="Nézet(&amp;V)">
+<menuitem id="32782" text="Könyvjelzők(&amp;B)\tAlt+1"/>
+<menuitem id="32783" text="Teljes képernyő(&amp;F)\tAlt+2"/>
+<menuitem id="32787" text="Nagyítás(&amp;I)\tCtrl+Num +"/>
+<menuitem id="32788" text="Kicsinyítés(&amp;O)\tCtrl+Num -"/>
+<menuitem id="32789" text="Nagyítás méretre...(&amp;T)\tCtrl+M"/>
+<menuitem id="32790" text="Tényleges méret(&amp;A)\tCtrl+1"/>
+<menuitem id="32791" text="Oldalhoz igazítás(&amp;P)\tCtrl+2"/>
+<menuitem id="32792" text="Szélességhez igazítás(&amp;W)\tCtrl+3"/>
+<popup id="|2|12" text="Oldalbeállítás(&amp;y)">
+<menuitem id="32925" text="Egy oldalas(&amp;g)"/>
+<menuitem id="32926" text="Folyamatos(&amp;C)"/>
+<menuitem id="32938" text="Oldalpár(&amp;F)"/>
+<menuitem id="32939" text="Folyamatos oldalpár(&amp;t)"/>
+</popup>
+<popup id="|2|14" text="Elforgatás(&amp;V)">
+<menuitem id="32935" text="Jobbra(&amp;C)\tShift+Ctrl+Plus"/>
+<menuitem id="32941" text="Balra(&amp;w)\tShift+Ctrl+Minus"/>
+</popup>
+<menuitem id="32942" text="Fordított nézet(&amp;R)"/>
+<menuitem id="32930" text="Hirdetés(&amp;A)"/>
+<menuitem id="33134" text="Hide Document &amp;Message Bar"/>
+<popup id="|2|22" text="Eszköztárak(&amp;T)">
+<menuitem id="33043" text="Fájl(&amp;F)"/>
+<menuitem id="33044" text="Navigálás(&amp;v)"/>
+<menuitem id="33045" text="Elforgatás(&amp;w)"/>
+<menuitem id="33046" text="Nagyítás(&amp;Z)"/>
+<menuitem id="33042" text="Alap(&amp;s)"/>
+<menuitem id="33104" text="Súgó(&amp;H)"/>
+<menuitem id="33065" text="Szöveg nézőke(&amp;x)"/>
+<menuitem id="33048" text="Eszköztárak visszaállítása(&amp;R)\tAlt+F8"/>
+<menuitem id="33049" text="Minden eszköztár rögzítése(&amp;D)\tCtrl+F8"/>
+<menuitem id="33053" text="Eszköztárak elrejtése\tF8"/>
+</popup>
+<menuitem id="32898" text="Menüsor(&amp;M)"/>
+<menuitem id="59393" text="Státuszsor(&amp;S)"/>
+</popup>
+<popup id="|3" text="Nyelv(&amp;L)">
+<menuitem id="40801" text="Alapértelmezett(&amp;D)"/>
+</popup>
+<popup id="|4" text="Dokumentum(&amp;D)">
+<menuitem id="32777" text="Első oldal(&amp;F)\tHome"/>
+<menuitem id="32778" text="Előző oldal(&amp;P)\tLeft Arrow"/>
+<menuitem id="32779" text="Következő oldal(&amp;N)\tRight Arrow"/>
+<menuitem id="32780" text="Utolsó oldal(&amp;L)\tEnd"/>
+<menuitem id="33097" text="Előző nézet(&amp;V)\tAlt+Left Arrow "/>
+<menuitem id="33098" text="Következő nézet(&amp;w)\tAlt+Right Arrow"/>
+<menuitem id="32781" text="Ugrás oldalra...(&amp;G)\tShift+Ctrl+N"/>
+</popup>
+<popup id="|5" text="Eszközök(&amp;T)">
+<menuitem id="32784" text="Kéz eszköz(&amp;H)\tAlt+3"/>
+<menuitem id="32785" text="Kicsinyítési eszköz(&amp;O)\tAlt+4"/>
+<menuitem id="32786" text="Nagyítási eszköz(&amp;I)\tAlt+5"/>
+<menuitem id="32977" text="Szöveg kijelölése(&amp;l)\tAlt+6"/>
+<menuitem id="32987" text="Pillanatfelvétel(&amp;S)\tAlt+7"/>
+<menuitem id="32793" text="Szöveg nézőke(&amp;V)\tAlt+9"/>
+</popup>
+<popup id="|6" text="&amp;Advanced">
+<popup id="|6|0" text="&amp;Comments Utilities">
+<popup id="|6|0|0" text="&amp;Export comments data">
+<menuitem id="33137" text="To &amp;form data file (FDF) ..."/>
+<menuitem id="33138" text="To &amp;E-mail address ..."/>
+</popup>
+<menuitem id="33139" text="&amp;Import comments data ..."/>
+</popup>
+<menuitem id="33118" text="JavaScript &amp;Console..."/>
+<menuitem id="33117" text="&amp;Document Javascript..."/>
+<popup id="|6|5" text="&amp;Form Utilities">
+<popup id="|6|5|0" text="&amp;Export form data">
+<menuitem id="33132" text="To &amp;form data file (FDF) ..."/>
+<menuitem id="33133" text="To &amp;E-mail address ..."/>
+</popup>
+<menuitem id="33120" text="&amp;Import form data ..."/>
+<menuitem id="33121" text="&amp;Reset form ..."/>
+<menuitem id="33122" text="Set calculation order ..."/>
+<menuitem id="33135" text="Always &amp;Hide Document Message Bar"/>
+</popup>
+</popup>
+<popup id="|7" text="Ablak(&amp;W)">
+<menuitem id="57648" text="Új ablak(&amp;N)"/>
+<menuitem id="57650" text="Lépcsőzetes(&amp;C)"/>
+<menuitem id="57651" text="Mozaik(&amp;T)"/>
+<menuitem id="57649" text="Minimalizáltak rendezése(&amp;A)"/>
+<menuitem id="57602" text="Bezár(&amp;o)"/>
+<menuitem id="32795" text="Mindet bezár(&amp;l)\tCtrl+Shift+W"/>
+</popup>
+<popup id="|8" text="Súgó(&amp;H)">
+<menuitem id="32969" text="Beállítás alapértelmezett PDF olvasónak(&amp;S)"/>
+<menuitem id="33116" text="Check for Updates Now..."/>
+<menuitem id="33136" text="Install Update..."/>
+<menuitem id="32774" text="Foxit Software honlapja(&amp;H)"/>
+<menuitem id="57664" text="Foxit Reader névjegye...(&amp;A)"/>
+</popup>
+</menu>
+<menu id="159">
+<popup id="|0" text="Menüsorok">
+<menuitem id="33043" text="Fájl(&amp;F)"/>
+<menuitem id="33044" text="Navigálás(&amp;v)"/>
+<menuitem id="33045" text="Elforgatás(&amp;w)"/>
+<menuitem id="33046" text="Nagyítás(&amp;Z)"/>
+<menuitem id="33042" text="Alap(&amp;s)"/>
+<menuitem id="33104" text="Súgó(&amp;H)"/>
+<menuitem id="33065" text="Szöveg nézőke(&amp;x)"/>
+<menuitem id="33048" text="Eszköztárak visszaállítása(&amp;R)\tAlt+F8"/>
+<menuitem id="33049" text="Minden eszköztár rögzítése(&amp;D)\tCtrl+F8"/>
+<menuitem id="33053" text="Eszköztárak elrejtése\tF8"/>
+<menuitem id="32930" text="Hirdetés(&amp;A)"/>
+<menuitem id="33134" text="Hide Document &amp;Message Bar"/>
+<menuitem id="32898" text="Menüsor(&amp;M)"/>
+<menuitem id="59393" text="Állapotsor(&amp;S)"/>
+</popup>
+</menu>
+<menu id="164">
+<popup id="|0" text="Súgó">
+<menuitem id="32969" text="Beállítás alapértelmezett PDF olvasónak(&amp;S)"/>
+<menuitem id="33116" text="Check for Updates Now..."/>
+<menuitem id="32774" text="Foxit Software honlapja(&amp;H)"/>
+<menuitem id="57664" text="Foxit Reader névjegye...(&amp;A)"/>
+</popup>
+</menu>
+<menu id="266">
+<popup id="|0" text="Szöveg kijelölése">
+<menuitem id="57634" text="Másolás(&amp;C)\tCtrl+C"/>
+</popup>
+</menu>
+<menu id="245">
+<popup id="|0" text="Nézet(&amp;V)">
+<menuitem id="32782" text="Könyvjelzők(&amp;B)\tAlt+1"/>
+<popup id="|0|2" text="Képernyő eszközök(&amp;c)">
+<menuitem id="32784" text="Kéz eszköz(&amp;H)\tAlt+3"/>
+<menuitem id="32785" text="Kicsinyítés(&amp;O)\tAlt+4"/>
+<menuitem id="32786" text="Nagyítás(&amp;I)\tAlt+5"/>
+<menuitem id="32977" text="Szöveg kijelölése(&amp;S)\tAlt+6"/>
+<menuitem id="32987" text="Pillanatfelvétel(&amp;S)\tAlt+7"/>
+</popup>
+<menuitem id="32930" text="Hirdetés(&amp;A)"/>
+<menuitem id="32787" text="Nagyítás(&amp;I)\tCtrl+Num +"/>
+<menuitem id="32788" text="Kicsinyítés(&amp;O)\tCtrl+Num -"/>
+<menuitem id="32789" text="Nagyítás méretre...(&amp;T)\tCtrl+M"/>
+<menuitem id="32790" text="Tényleges méret(&amp;A)\tCtrl+1"/>
+<menuitem id="32791" text="Oldalhoz igazítás(&amp;P)\tCtrl+2"/>
+<menuitem id="32792" text="Szélességhez igazítás(&amp;W)\tCtrl+3"/>
+<popup id="|0|14" text="Oldalbeállítás(&amp;y)">
+<menuitem id="32925" text="Egy oldalas(&amp;g)"/>
+<menuitem id="32926" text="Folyamatos(&amp;C)"/>
+<menuitem id="32938" text="Oldalpár(&amp;F)"/>
+<menuitem id="32939" text="Folyamatos oldalpár(&amp;t)"/>
+</popup>
+<popup id="|0|16" text="Elforgatás(&amp;V)">
+<menuitem id="32935" text="Jobbra(&amp;C)\tShift+Ctrl+Plus"/>
+<menuitem id="32941" text="Balra(&amp;w)\tShift+Ctrl+Minus"/>
+</popup>
+<menuitem id="32942" text="Fordított nézet(&amp;R)"/>
+</popup>
+</menu>
+<menu id="623">
+<popup id="|0" text="Szöveg nézet">
+<menuitem id="57643" text="Visszavonás(&amp;U)\tCtrl+Z"/>
+<menuitem id="57635" text="Kivágás(&amp;t)\tCtrl+X"/>
+<menuitem id="57634" text="Másolás(&amp;C)\tCtrl+C"/>
+<menuitem id="57637" text="Beillesztés(&amp;P)\tCtrl+V"/>
+<menuitem id="32901" text="Törlés(&amp;D)\tDel"/>
+<menuitem id="57636" text="Keresés...(&amp;F)\tCtrl+F"/>
+<menuitem id="32903" text="Következő találat...(&amp;N)\tF3"/>
+<menuitem id="57641" text="Csere...(&amp;R)\tCtrl+H"/>
+<menuitem id="57642" text="Mindent kijelöl(&amp;A)\tCtrl+A"/>
+</popup>
+</menu>
+<menu id="720">
+<popup id="|0" text="Szöveg nézet">
+<menuitem id="57634" text="Másolás(&amp;C)\tCtrl+C"/>
+<menuitem id="57636" text="Keresés...(&amp;F)\tCtrl+F"/>
+<menuitem id="32903" text="Következő találat...(&amp;N)\tF3"/>
+<menuitem id="57642" text="Mindent kijelöl(&amp;A)\tCtrl+A"/>
+</popup>
+</menu>
+<menu id="653">
+<popup id="|0" text="Eszköztárak">
+<popup id="|0|0" text="Gombfeliratok megjelenítése">
+<menuitem id="33050" text="Alapértelmezett feliratok(&amp;D)"/>
+<menuitem id="33051" text="Összes felirat(&amp;A)"/>
+<menuitem id="33052" text="Nincs felirat(&amp;N)"/>
+</popup>
+</popup>
+</menu>
+<menu id="163">
+<popup id="|0" text="Nézet(&amp;V)">
+<menuitem id="32782" text="Könyvjelzők(&amp;B)\tAlt+1"/>
+<menuitem id="32783" text="Teljes képernyő(&amp;F)\tAlt+2"/>
+<popup id="|0|2" text="Eszközök(&amp;l)">
+<menuitem id="32784" text="Kéz eszköz(&amp;H)\tAlt+3"/>
+<menuitem id="32785" text="Kicsinyítés(&amp;O)\tAlt+4"/>
+<menuitem id="32786" text="Nagyítás(&amp;I)\tAlt+5"/>
+<menuitem id="32977" text="Szöveg kijelölése(&amp;S)\tAlt+6"/>
+<menuitem id="32987" text="Pillanatfelvétel(&amp;S)\tAlt+7"/>
+<menuitem id="32793" text="Szöveg nézőke(&amp;V)\tAlt+9"/>
+</popup>
+<menuitem id="32787" text="Nagyítás(&amp;I)\tCtrl+Num +"/>
+<menuitem id="32788" text="Kicsinyítés(&amp;O)\tCtrl+Num -"/>
+<menuitem id="32789" text="Nagyítás méretre...(&amp;T)\tCtrl+M"/>
+<menuitem id="32790" text="Tényleges méret(&amp;A)\tCtrl+1"/>
+<menuitem id="32791" text="Oldalhoz igazítás(&amp;P)\tCtrl+2"/>
+<menuitem id="32792" text="Szélességhez igazítás(&amp;W)\tCtrl+3"/>
+<popup id="|0|12" text="Oldalbeállítás(&amp;y)">
+<menuitem id="32925" text="Egy oldalas(&amp;g)"/>
+<menuitem id="32926" text="Folyamatos(&amp;C)"/>
+<menuitem id="32938" text="Oldalpár(&amp;F)"/>
+<menuitem id="32939" text="Folyamatos oldalpár(&amp;t)"/>
+</popup>
+<popup id="|0|14" text="Elforgatás(&amp;V)">
+<menuitem id="32935" text="Jobbra(&amp;C)\tShift+Ctrl+Plus"/>
+<menuitem id="32941" text="Balra(&amp;w)\tShift+Ctrl+Minus"/>
+</popup>
+<menuitem id="32942" text="Fordított nézet(&amp;R)"/>
+<menuitem id="32930" text="Hirdetés(&amp;A)"/>
+<popup id="|0|20" text="Eszköztárak(&amp;T)">
+<menuitem id="33043" text="Fájl(&amp;F)"/>
+<menuitem id="33044" text="Navigálás(&amp;v)"/>
+<menuitem id="33045" text="Elforgatás(&amp;w)"/>
+<menuitem id="33046" text="Nagyítás(&amp;Z)"/>
+<menuitem id="33042" text="Alap(&amp;s)"/>
+<menuitem id="33104" text="Súgó(&amp;H)"/>
+<menuitem id="33065" text="Szöveg nézőke(&amp;x)"/>
+<menuitem id="33048" text="Eszköztárak visszaállítása(&amp;R)\tAlt+F8"/>
+<menuitem id="33049" text="Minden eszköztár rögzítése(&amp;D)\tCtrl+F8"/>
+<menuitem id="33053" text="Eszköztárak elrejtése\tF8"/>
+</popup>
+<menuitem id="59393" text="Státuszsor(&amp;S)"/>
+<menuitem id="32898" text="Menüsor(&amp;M)"/>
+</popup>
+</menu>
+<menu id="160">
+<popup id="|0" text="Nagyítás">
+<menuitem id="32865" text="1600 %"/>
+<menuitem id="32866" text="800 %"/>
+<menuitem id="32867" text="400 %"/>
+<menuitem id="32868" text="200 %"/>
+<menuitem id="32869" text="150 %"/>
+<menuitem id="32870" text="125 %"/>
+<menuitem id="32871" text="100 %"/>
+</popup>
+</menu>
+<menu id="161">
+<popup id="|0" text="Kicsinyítés">
+<menuitem id="32871" text="100 %"/>
+<menuitem id="32873" text="50 %"/>
+<menuitem id="32874" text="25 %"/>
+<menuitem id="32875" text="12,5 %"/>
+<menuitem id="32876" text="8,33 %"/>
+</popup>
+</menu>
+<menu id="129">
+<popup id="|1" text="Fájl(&amp;F)">
+<menuitem id="57601" text="Megnyitás...(&amp;O)\tCtrl+O"/>
+<menuitem id="33111" text="PDF konvertálása...(&amp;C)"/>
+<menuitem id="57602" text="Bezárás(&amp;C)\tCtrl+W"/>
+<menuitem id="57603" text="Mentés\tCtrl+S"/>
+<menuitem id="32932" text="Mentés másként...(&amp;A)\tCtrl+Shift+S"/>
+<menuitem id="57607" text="Nyomtatás...(&amp;P)\tCtrl+P"/>
+<menuitem id="57606" text="Nyomtatási beállítások...(&amp;r)"/>
+<menuitem id="57616" text="Legutóbbi fájl"/>
+<menuitem id="32776" text="Tulajdonságok...(&amp;t)"/>
+<menuitem id="57665" text="Kilépés(&amp;x)\tCtrl+Q"/>
+</popup>
+<popup id="|2" text="Szerkesztés(&amp;E)">
+<menuitem id="33112" text="Tartalom módosítása...(&amp;M)"/>
+<menuitem id="57634" text="Másolás(&amp;C)\tCtrl+C"/>
+<menuitem id="57636" text="Szöveg keresése...(&amp;F)\tCtrl+F"/>
+<menuitem id="32903" text="Következő találat(&amp;N)\tF3"/>
+<menuitem id="32985" text="Tulajdonságok...(&amp;P)\tCtrl+K"/>
+</popup>
+<popup id="|3" text="Nézet(&amp;V)">
+<menuitem id="32782" text="Könyvjelzők(&amp;B)\tAlt+1"/>
+<menuitem id="32783" text="Teljes képernyő(&amp;F)\tAlt+2"/>
+<menuitem id="32787" text="Nagyítás(&amp;I)\tCtrl+Num +"/>
+<menuitem id="32788" text="Kicsinyítés(&amp;O)\tCtrl+Num -"/>
+<menuitem id="32789" text="Nagyítás méretre...(&amp;T)\tCtrl+M"/>
+<menuitem id="32790" text="Tényleges méret(&amp;A)\tCtrl+1"/>
+<menuitem id="32791" text="Oldalhoz igazítás(&amp;P)\tCtrl+2"/>
+<menuitem id="32792" text="Szélességhez igazítás(&amp;W)\tCtrl+3"/>
+<popup id="|3|12" text="Oldalbeállítás(&amp;y)">
+<menuitem id="32925" text="Egy oldalas(&amp;g)"/>
+<menuitem id="32926" text="Folyamatos(&amp;C)"/>
+<menuitem id="32938" text="Oldalpár(&amp;F)"/>
+<menuitem id="32939" text="Folyamatos oldalpár(&amp;t)"/>
+</popup>
+<popup id="|3|14" text="Elforgatás(&amp;V)">
+<menuitem id="32935" text="Jobbra(&amp;C)\tShift+Ctrl+Plus"/>
+<menuitem id="32941" text="Balra(&amp;w)\tShift+Ctrl+Minus"/>
+</popup>
+<menuitem id="32942" text="Fordított nézet(&amp;R)"/>
+<menuitem id="32930" text="Hirdetés(&amp;A)"/>
+<menuitem id="33134" text="Hide Document &amp;Message Bar"/>
+<popup id="|3|22" text="Eszköztárak(&amp;T)">
+<menuitem id="33043" text="Fájl(&amp;F)"/>
+<menuitem id="33044" text="Navigálás(&amp;v)"/>
+<menuitem id="33045" text="Elforgatás(&amp;w)"/>
+<menuitem id="33046" text="Nagyítás(&amp;Z)"/>
+<menuitem id="33042" text="Alap(&amp;s)"/>
+<menuitem id="33104" text="Súgó(&amp;H)"/>
+<menuitem id="33065" text="Szöveg nézőke(&amp;x)"/>
+<menuitem id="33048" text="Eszköztárak visszaállítása(&amp;R)\tAlt+F8"/>
+<menuitem id="33049" text="Minden eszköztár rögzítése(&amp;D)\tCtrl+F8"/>
+<menuitem id="33053" text="Eszköztárak elrejtése\tF8"/>
+</popup>
+<menuitem id="32898" text="Menüsor(&amp;M)"/>
+<menuitem id="59393" text="Státuszsor(&amp;S)"/>
+</popup>
+<popup id="|4" text="Nyelv(&amp;L)">
+<menuitem id="40801" text="Alapértelmezett(&amp;D)"/>
+</popup>
+<popup id="|5" text="Dokumentum(&amp;D)">
+<menuitem id="32777" text="Első oldal(&amp;F)\tHome"/>
+<menuitem id="32778" text="Előző oldal(&amp;P)\tLeft Arrow"/>
+<menuitem id="32779" text="Következő oldal(&amp;N)\tRight Arrow"/>
+<menuitem id="32780" text="Utolsó oldal(&amp;L)\tEnd"/>
+<menuitem id="33097" text="Előző nézet(&amp;V)\tAlt+Left Arrow "/>
+<menuitem id="33098" text="Következő nézet(&amp;w)\tAlt+Right Arrow"/>
+<menuitem id="32781" text="Ugrás oldalra...(&amp;G)\tShift+Ctrl+N"/>
+</popup>
+<popup id="|6" text="Eszközök(&amp;T)">
+<menuitem id="32784" text="Kéz eszköz(&amp;H)\tAlt+3"/>
+<menuitem id="32785" text="Kicsinyítési eszköz(&amp;O)\tAlt+4"/>
+<menuitem id="32786" text="Nagyítási eszköz(&amp;I)\tAlt+5"/>
+<menuitem id="32977" text="Szöveg kijelölése(&amp;l)\tAlt+6"/>
+<menuitem id="32987" text="Pillanatfelvétel(&amp;S)\tAlt+7"/>
+<menuitem id="32793" text="Szöveg nézőke(&amp;V)\tAlt+9"/>
+</popup>
+<popup id="|7" text="&amp;Advanced">
+<popup id="|7|0" text="&amp;Comments Utilities">
+<popup id="|7|0|0" text="&amp;Export comments data">
+<menuitem id="33137" text="To &amp;form data file (FDF) ..."/>
+<menuitem id="33138" text="To &amp;E-mail address ..."/>
+</popup>
+<menuitem id="33139" text="&amp;Import comments data ..."/>
+</popup>
+<menuitem id="33118" text="JavaScript &amp;Console..."/>
+<menuitem id="33117" text="Document Javascript..."/>
+<popup id="|7|5" text="&amp;Form Utilities">
+<popup id="|7|5|0" text="&amp;Export form data">
+<menuitem id="33132" text="To &amp;form data file (FDF) ..."/>
+<menuitem id="33133" text="To &amp;E-mail address ..."/>
+</popup>
+<menuitem id="33120" text="&amp;Import form data from ..."/>
+<menuitem id="33121" text="&amp;Reset form ..."/>
+<menuitem id="33122" text="Set calculation order ..."/>
+<menuitem id="33135" text="Always &amp;Hide Document Message Bar"/>
+</popup>
+</popup>
+<popup id="|8" text="Ablak(&amp;W)">
+<menuitem id="57648" text="Új ablak(&amp;N)"/>
+<menuitem id="57650" text="Lépcsőzetes(&amp;C)"/>
+<menuitem id="57651" text="Mozaik(&amp;T)"/>
+<menuitem id="57649" text="Minimalizáltak rendezése(&amp;A)"/>
+<menuitem id="57602" text="Bezár(&amp;o)"/>
+<menuitem id="32795" text="Mindet bezár(&amp;l)\tCtrl+Shift+W"/>
+</popup>
+<popup id="|9" text="Súgó(&amp;H)">
+<menuitem id="32969" text="Beállítás alapértelmezett PDF olvasónak(&amp;S)"/>
+<menuitem id="33116" text="Check for Updates Now..."/>
+<menuitem id="33136" text="Install Update..."/>
+<menuitem id="32774" text="Foxit Software honlapja(&amp;H)"/>
+<menuitem id="57664" text="Foxit Reader névjegye...(&amp;A)"/>
+</popup>
+</menu>
+<menu id="209">
+<popup id="|0" text="Fájl(&amp;F)">
+<menuitem id="57601" text="Megnyitás...(&amp;O)\tCtrl+O"/>
+<menuitem id="57602" text="Bezárás(&amp;C)\tCtrl+W"/>
+<menuitem id="57603" text="Mentés\tCtrl+S"/>
+<menuitem id="32932" text="Mentés másként...(&amp;A)\tCtrl+Shift+S"/>
+<menuitem id="57607" text="Nyomtatás...(&amp;P)\tCtrl+P"/>
+<menuitem id="57606" text="Nyomtatási beállítások...(&amp;r)"/>
+<menuitem id="57616" text="Legutóbbi fájl"/>
+<menuitem id="32776" text="Tulajdonságok...(&amp;t)"/>
+<menuitem id="57665" text="Kilépés(&amp;x)\tCtrl+Q"/>
+</popup>
+<popup id="|1" text="Szerkesztés(&amp;E)">
+<menuitem id="57634" text="Másolás(&amp;C)\tCtrl+C"/>
+<menuitem id="57636" text="Szöveg keresése...(&amp;F)\tCtrl+F"/>
+<menuitem id="32903" text="Következő találat(&amp;N)\tF3"/>
+<menuitem id="32985" text="Tulajdonságok...(&amp;P)\tCtrl+K"/>
+</popup>
+<popup id="|2" text="Nézet(&amp;V)">
+<menuitem id="32782" text="Könyvjelzők(&amp;B)\tAlt+1"/>
+<menuitem id="32783" text="Teljes képernyő(&amp;F)\tAlt+2"/>
+<menuitem id="32787" text="Nagyítás(&amp;I)\tCtrl+Num +"/>
+<menuitem id="32788" text="Kicsinyítés(&amp;O)\tCtrl+Num -"/>
+<menuitem id="32789" text="Nagyítás méretre...(&amp;T)\tCtrl+M"/>
+<menuitem id="32790" text="Tényleges méret(&amp;A)\tCtrl+1"/>
+<menuitem id="32791" text="Oldalhoz igazítás(&amp;P)\tCtrl+2"/>
+<menuitem id="32792" text="Szélességhez igazítás(&amp;W)\tCtrl+3"/>
+<popup id="|2|12" text="Oldalbeállítás(&amp;y)">
+<menuitem id="32925" text="Egy oldalas(&amp;g)"/>
+<menuitem id="32926" text="Folyamatos(&amp;C)"/>
+<menuitem id="32938" text="Oldalpár(&amp;F)"/>
+<menuitem id="32939" text="Folyamatos oldalpár(&amp;t)"/>
+</popup>
+<popup id="|2|14" text="Elforgatás(&amp;V)">
+<menuitem id="32935" text="Jobbra(&amp;C)\tShift+Ctrl+Plus"/>
+<menuitem id="32941" text="Balra(&amp;w)\tShift+Ctrl+Minus"/>
+</popup>
+<menuitem id="32942" text="Fordított nézet(&amp;R)"/>
+<menuitem id="32930" text="Hirdetés(&amp;A)"/>
+<popup id="|2|20" text="Eszköztárak(&amp;T)">
+<menuitem id="33043" text="Fájl(&amp;F)"/>
+<menuitem id="33044" text="Navigálás(&amp;v)"/>
+<menuitem id="33045" text="Elforgatás(&amp;w)"/>
+<menuitem id="33046" text="Nagyítás(&amp;Z)"/>
+<menuitem id="33042" text="Alap(&amp;s)"/>
+<menuitem id="33104" text="Súgó(&amp;H)"/>
+<menuitem id="33065" text="Szöveg nézőke(&amp;x)"/>
+<menuitem id="33048" text="Eszköztárak visszaállítása(&amp;R)\tAlt+F8"/>
+<menuitem id="33049" text="Minden eszköztár rögzítése(&amp;D)\tCtrl+F8"/>
+<menuitem id="33053" text="Eszköztárak elrejtése\tF8"/>
+</popup>
+<menuitem id="32898" text="Menüsor(&amp;M)"/>
+<menuitem id="59393" text="Státuszsor(&amp;S)"/>
+</popup>
+<popup id="|3" text="Dokumentum(&amp;D)">
+<menuitem id="32777" text="Első oldal(&amp;F)\tHome"/>
+<menuitem id="32778" text="Előző oldal(&amp;P)\tLeft Arrow"/>
+<menuitem id="32779" text="Következő oldal(&amp;N)\tRight Arrow"/>
+<menuitem id="32780" text="Utolsó oldal(&amp;L)\tEnd"/>
+<menuitem id="33097" text="Előző nézet(&amp;V)\tAlt+Left Arrow "/>
+<menuitem id="33098" text="Következő nézet(&amp;w)\tAlt+Right Arrow"/>
+<menuitem id="32781" text="Ugrás oldalra...(&amp;G)\tShift+Ctrl+N"/>
+</popup>
+<popup id="|4" text="Eszközök(&amp;T)">
+<menuitem id="32784" text="Kéz eszköz(&amp;H)\tAlt+3"/>
+<menuitem id="32785" text="Kicsinyítési eszköz(&amp;O)\tAlt+4"/>
+<menuitem id="32786" text="Nagyítási eszköz(&amp;I)\tAlt+5"/>
+<menuitem id="32977" text="Szöveg kijelölése(&amp;l)\tAlt+6"/>
+<menuitem id="32987" text="Pillanatfelvétel(&amp;S)\tAlt+7"/>
+<menuitem id="32793" text="Szöveg nézőke(&amp;V)\tAlt+9"/>
+</popup>
+<popup id="|5" text="Ablak(&amp;W)">
+<menuitem id="57648" text="Új ablak(&amp;N)"/>
+<menuitem id="57650" text="Lépcsőzetes(&amp;C)"/>
+<menuitem id="57651" text="Mozaik(&amp;T)"/>
+<menuitem id="57649" text="Minimalizáltak rendezése(&amp;A)"/>
+<menuitem id="57602" text="Bezár(&amp;o)"/>
+<menuitem id="32795" text="Mindet bezár(&amp;l)\tCtrl+Shift+W"/>
+</popup>
+<popup id="|6" text="Súgó(&amp;H)">
+<menuitem id="32969" text="Beállítás alapértelmezett PDF olvasónak(&amp;S)"/>
+<menuitem id="32774" text="Foxit Software honlapja(&amp;H)"/>
+<menuitem id="57664" text="Foxit Reader névjegye...(&amp;A)"/>
+</popup>
+</menu>
+<menu id="205">
+<popup id="|0" text="Fájl(&amp;F)">
+<menuitem id="57601" text="Megnyitás...(&amp;O)\tCtrl+O"/>
+<menuitem id="57602" text="Bezárás(&amp;C)\tCtrl+W"/>
+<menuitem id="57603" text="Mentés\tCtrl+S"/>
+<menuitem id="32932" text="Mentés másként...(&amp;A)\tCtrl+Shift+S"/>
+<menuitem id="57607" text="Nyomtatás...(&amp;P)\tCtrl+P"/>
+<menuitem id="57606" text="Nyomtatási beállítások...(&amp;r)"/>
+<menuitem id="57616" text="Legutóbbi fájl"/>
+<menuitem id="32776" text="Tulajdonságok...(&amp;t)"/>
+<menuitem id="57665" text="Kilépés(&amp;x)\tCtrl+Q"/>
+</popup>
+<popup id="|1" text="Szerkesztés(&amp;E)">
+<menuitem id="57634" text="Másolás(&amp;C)\tCtrl+C"/>
+<menuitem id="57636" text="Szöveg keresése...(&amp;F)\tCtrl+F"/>
+<menuitem id="32903" text="Következő találat(&amp;N)\tF3"/>
+<menuitem id="32985" text="Tulajdonságok...(&amp;P)\tCtrl+K"/>
+</popup>
+<popup id="|2" text="Nézet(&amp;V)">
+<menuitem id="32782" text="Könyvjelzők(&amp;B)\tAlt+1"/>
+<menuitem id="32783" text="Teljes képernyő(&amp;F)\tAlt+2"/>
+<menuitem id="32787" text="Nagyítás(&amp;I)\tCtrl+Num +"/>
+<menuitem id="32788" text="Kicsinyítés(&amp;O)\tCtrl+Num -"/>
+<menuitem id="32789" text="Nagyítás méretre...(&amp;T)\tCtrl+M"/>
+<menuitem id="32790" text="Tényleges méret(&amp;A)\tCtrl+1"/>
+<menuitem id="32791" text="Oldalhoz igazítás(&amp;P)\tCtrl+2"/>
+<menuitem id="32792" text="Szélességhez igazítás(&amp;W)\tCtrl+3"/>
+<popup id="|2|12" text="Oldalbeállítás(&amp;y)">
+<menuitem id="32925" text="Egy oldalas(&amp;g)"/>
+<menuitem id="32926" text="Folyamatos(&amp;C)"/>
+<menuitem id="32938" text="Oldalpár(&amp;F)"/>
+<menuitem id="32939" text="Folyamatos oldalpár(&amp;t)"/>
+</popup>
+<popup id="|2|14" text="Elforgatás(&amp;V)">
+<menuitem id="32935" text="Jobbra(&amp;C)\tShift+Ctrl+Plus"/>
+<menuitem id="32941" text="Balra(&amp;w)\tShift+Ctrl+Minus"/>
+</popup>
+<menuitem id="32942" text="Fordított nézet(&amp;R)"/>
+<menuitem id="32930" text="Hirdetés(&amp;A)"/>
+<popup id="|2|20" text="Eszköztárak(&amp;T)">
+<menuitem id="33043" text="Fájl(&amp;F)"/>
+<menuitem id="33044" text="Navigálás(&amp;v)"/>
+<menuitem id="33045" text="Elforgatás(&amp;w)"/>
+<menuitem id="33046" text="Nagyítás(&amp;Z)"/>
+<menuitem id="33042" text="Alap(&amp;s)"/>
+<menuitem id="33104" text="Súgó(&amp;H)"/>
+<menuitem id="33065" text="Szöveg nézőke(&amp;x)"/>
+<menuitem id="33048" text="Eszköztárak visszaállítása(&amp;R)\tAlt+F8"/>
+<menuitem id="33049" text="Minden eszköztár rögzítése(&amp;D)\tCtrl+F8"/>
+<menuitem id="33053" text="Eszköztárak elrejtése\tF8"/>
+</popup>
+<menuitem id="32898" text="Menüsor(&amp;M)"/>
+<menuitem id="59393" text="Státuszsor(&amp;S)"/>
+</popup>
+<popup id="|3" text="Dokumentum(&amp;D)">
+<menuitem id="32777" text="Első oldal(&amp;F)\tHome"/>
+<menuitem id="32778" text="Előző oldal(&amp;P)\tLeft Arrow"/>
+<menuitem id="32779" text="Következő oldal(&amp;N)\tRight Arrow"/>
+<menuitem id="32780" text="Utolsó oldal(&amp;L)\tEnd"/>
+<menuitem id="33097" text="Előző nézet(&amp;V)\tAlt+Left Arrow "/>
+<menuitem id="33098" text="Következő nézet(&amp;w)\tAlt+Right Arrow"/>
+<menuitem id="32781" text="Ugrás oldalra...(&amp;G)\tShift+Ctrl+N"/>
+</popup>
+<popup id="|4" text="Eszközök(&amp;T)">
+<menuitem id="32784" text="Kéz eszköz(&amp;H)\tAlt+3"/>
+<menuitem id="32785" text="Kicsinyítési eszköz(&amp;O)\tAlt+4"/>
+<menuitem id="32786" text="Nagyítási eszköz(&amp;I)\tAlt+5"/>
+<menuitem id="32977" text="Szöveg kijelölése(&amp;l)\tAlt+6"/>
+<menuitem id="32987" text="Pillanatfelvétel(&amp;S)\tAlt+7"/>
+<menuitem id="32793" text="Szöveg nézőke(&amp;V)\tAlt+9"/>
+</popup>
+<popup id="|5" text="Ablak(&amp;W)">
+<menuitem id="57648" text="Új ablak(&amp;N)"/>
+<menuitem id="57650" text="Lépcsőzetes(&amp;C)"/>
+<menuitem id="57651" text="Mozaik(&amp;T)"/>
+<menuitem id="57649" text="Minimalizáltak rendezése(&amp;A)"/>
+<menuitem id="57602" text="Bezár(&amp;o)"/>
+<menuitem id="32795" text="Mindet bezár(&amp;l)\tCtrl+Shift+W"/>
+</popup>
+<popup id="|6" text="Súgó(&amp;H)">
+<menuitem id="32969" text="Beállítás alapértelmezett PDF olvasónak(&amp;S)"/>
+<menuitem id="32774" text="Foxit Software honlapja(&amp;H)"/>
+<menuitem id="57664" text="Foxit Reader névjegye...(&amp;A)"/>
+</popup>
+</menu>
+<menu id="9032">
+<popup id="|0" text="Vízszintes arány">
+<menuitem id="9061" text="200 %"/>
+<menuitem id="9067" text="150 %"/>
+<menuitem id="9066" text="125 %"/>
+<menuitem id="9062" text="100 %"/>
+<menuitem id="9063" text="75 %"/>
+<menuitem id="9064" text="50 %"/>
+<menuitem id="9065" text="Egyéni..."/>
+</popup>
+</menu>
+<menu id="828">
+<popup id="|0" text="highlight">
+<menuitem id="33131" text="&amp;All Fields"/>
+<menuitem id="33129" text="&amp;Combo Box"/>
+<menuitem id="33125" text="C&amp;heck Box"/>
+<menuitem id="33130" text="&amp;List Box"/>
+<menuitem id="33126" text="P&amp;ush Button"/>
+<menuitem id="33127" text="&amp;Radio Button"/>
+<menuitem id="33128" text="&amp;Text Field"/>
+<menuitem id="33134" text="Hide Document &amp;Message Bar"/>
+</popup>
+</menu>
+<menu id="10002">
+<popup id="|0" text="Annot">
+<popup id="|0|0" text="&amp;Set Status">
+<popup id="|0|0|0" text="&amp;Review">
+<menuitem id="10032" text="&amp;None"/>
+<menuitem id="10033" text="&amp;Accepted"/>
+<menuitem id="10034" text="&amp;Rejected"/>
+<menuitem id="10035" text="&amp;Cancelled"/>
+<menuitem id="10036" text="C&amp;ompleted"/>
+</popup>
+<popup id="|0|0|1" text="&amp;Migration">
+<menuitem id="10037" text="&amp;None"/>
+<menuitem id="10038" text="N&amp;ot Confirmed"/>
+<menuitem id="10039" text="&amp;Confirmed"/>
+</popup>
+</popup>
+<menuitem id="10101" text="&amp;Mark with Checkmark"/>
+<menuitem id="10115" text="Remo&amp;ve Checkmark"/>
+<menuitem id="10109" text="&amp;Open Popup Note"/>
+<menuitem id="10113" text="&amp;Close Popup Note"/>
+<menuitem id="10040" text="&amp;Reset Popup Note"/>
+<menuitem id="10041" text="&amp;Delete"/>
+<menuitem id="10110" text="Repl&amp;y"/>
+<menuitem id="10099" text="M&amp;erge"/>
+<menuitem id="10112" text="&amp;Flip"/>
+<menuitem id="10100" text="&amp;Group"/>
+<menuitem id="10108" text="&amp;Ungroup"/>
+<menuitem id="10111" text="Se&amp;t Current Properties as Default"/>
+<menuitem id="10042" text="O&amp;pen Properties ..."/>
+<menuitem id="10114" text="C&amp;lose Properties"/>
+</popup>
+</menu>
+<menu id="5000">
+<popup id="|0" text="_ITEMTITLE">
+<menuitem id="5006" text="&amp;Reply this topic"/>
+<menuitem id="5007" text="&amp;Delete this topic"/>
+</popup>
+</menu>
+</Menus>
+<Dialogs>
+<Dialog id="147">
+<dlgitem id="1002" text="Teljes dokumentum mentése"/>
+<dlgitem id="1003" text="Aktuális oldal mentése"/>
+<dlgitem id="1004" text="Oldalak mentése ettől:"/>
+<dlgitem id="1191" text="eddig"/>
+<dlgitem id="1190" text="Mit mentsen:"/>
+</Dialog>
+<Dialog id="727" text="Folyamat">
+<dlgitem id="2" text="Mégsem"/>
+<dlgitem id="1256" text="Folyamat1"/>
+<dlgitem id="1255" text="Keresés..."/>
+</Dialog>
+<Dialog id="274" text="Szöveg keresése">
+<dlgitem id="1192" text="Mit keressen:(&amp;n)"/>
+<dlgitem id="1067" text="Teljes egyezés(&amp;w)"/>
+<dlgitem id="1068" text="Kis- és nagybetű megkülönböztetése(&amp;c)"/>
+<dlgitem id="1193" text="Irány"/>
+<dlgitem id="1069" text="Felfelé(&amp;U)"/>
+<dlgitem id="1070" text="Lefelé(&amp;D)"/>
+<dlgitem id="1153" text="Következő találat(&amp;F)"/>
+<dlgitem id="2" text="Mégsem(&amp;C)"/>
+</Dialog>
+<Dialog id="157" text="Ugrás oldalra">
+<dlgitem id="1194" text="Oldal:(&amp;P)"/>
+<dlgitem id="1195" text="/"/>
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+</Dialog>
+<Dialog id="130" text="Jelszó">
+<dlgitem id="1196" text="Jelszó megadása:"/>
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+<dlgitem id="1121" text="Ez a fájl jelszóval védett."/>
+</Dialog>
+<Dialog id="276">
+<dlgitem id="1197" text="Dokumentumszínek beállítása"/>
+<dlgitem id="1074" text="Dokumentum színek cseréje(&amp;R)"/>
+<dlgitem id="1075" text="Windows színséma használata(&amp;W)"/>
+<dlgitem id="1076" text="Egyéni színek:(&amp;C)"/>
+<dlgitem id="1102" text="Oldal háttere:(&amp;B)"/>
+<dlgitem id="1103" text="Dokumentum szövege:(&amp;T)"/>
+<dlgitem id="1078" text="Csak a fekete / fehér tartalom színének módosítása(&amp;o)"/>
+</Dialog>
+<Dialog id="300">
+<dlgitem id="1198" text="Kijelölés"/>
+<dlgitem id="1108" text="Pillanatfelvétel állandó felbontásban(&amp;n)"/>
+<dlgitem id="1200" text="Felbontás:(&amp;u)"/>
+<dlgitem id="1199" text="Nyomtató"/>
+<dlgitem id="1253" text="Szövegek nyomtatása képként (betűtípus cserét figyelmen kívül hagyja)(&amp;g)"/>
+</Dialog>
+<Dialog id="278">
+<dlgitem id="1201" text="Oldalmegjelenítés"/>
+<dlgitem id="1202" text="Alapértelmezett oldalelrendezés:(&amp;a)"/>
+<dlgitem id="1101" text="Áttekintő rácsok megjelenítése(&amp;t)"/>
+<dlgitem id="1105" text="Egyedi oldalpár(&amp;c)"/>
+<dlgitem id="1204" text="Oldalak"/>
+<dlgitem id="1252" text="Egyéni margók(&amp;M)"/>
+<dlgitem id="1205" text="Képpontok"/>
+<dlgitem id="1111" text="LCD képernyőre optimalizált szöveg megjelenítés"/>
+<dlgitem id="1203" text="Nagyítás"/>
+<dlgitem id="1206" text="Alapértelmezett nagyítás(&amp;z)"/>
+<dlgitem id="1207" text="Max nagyítási arány:(&amp;V)"/>
+</Dialog>
+<Dialog id="275" text="Beállítások">
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+<dlgitem id="1104" text="Elem:"/>
+</Dialog>
+<Dialog id="778" text="Folyamat">
+<dlgitem id="1152" text="Folyamat1"/>
+<dlgitem id="1255" text="Nyomtatás..."/>
+<dlgitem id="2" text="Mégsem"/>
+</Dialog>
+<Dialog id="530" text="Nyomtató">
+<dlgitem id="1199" text="Nyomtató"/>
+<dlgitem id="1208" text="Név:(&amp;N)"/>
+<dlgitem id="1120" text="Tulajdonságok(&amp;P)"/>
+<dlgitem id="1209" text="Állapot:"/>
+<dlgitem id="1141" text="Üzemkész"/>
+<dlgitem id="1122" text="Nyomtatás fájlba(&amp;f)"/>
+<dlgitem id="1210" text="Típus:"/>
+<dlgitem id="1142" text="Foxit PDF nyomtató"/>
+<dlgitem id="1139" text="Nyomtatási ötletek(&amp;T)"/>
+<dlgitem id="1140" text="Speciális(&amp;d)"/>
+<dlgitem id="1211" text="Nyomtatási tartomány"/>
+<dlgitem id="1123" text="Mind(&amp;A)"/>
+<dlgitem id="1127" text="Aktuális nézet(&amp;v)"/>
+<dlgitem id="1130" text="Aktuális oldal(&amp;u)"/>
+<dlgitem id="1216" text="Oldalak ettől:(&amp;g)"/>
+<dlgitem id="1191" text="eddig(&amp;t)"/>
+<dlgitem id="1212" text="Részhalmaz:(&amp;b)"/>
+<dlgitem id="1226" text="Oldalak fordított sorrendben(&amp;e)"/>
+<dlgitem id="1213" text="Nyomtatáskezélés"/>
+<dlgitem id="1214" text="Példány:(&amp;C)"/>
+<dlgitem id="1163" text="Margók:(&amp;M)"/>
+<dlgitem id="1228" text="hüvelyk"/>
+<dlgitem id="1229" text="Leválogatás(&amp;o)"/>
+<dlgitem id="1215" text="Oldal méretezés:(&amp;S)"/>
+<dlgitem id="1217" text="Oldal elrendezés:(&amp;r)"/>
+<dlgitem id="1219" text="Oldal elforgatás:(&amp;R)"/>
+<dlgitem id="1164" text="Oldalak sorrendje:(&amp;d)"/>
+<dlgitem id="1165" text="Oldal/lap(&amp;s)"/>
+<dlgitem id="1166" text="-(&amp;y)"/>
+<dlgitem id="1133" text="Automatikus elforgatás(&amp;R)"/>
+<dlgitem id="1151" text="Automatikus középre igazítás(&amp;t)"/>
+<dlgitem id="1156" text="Oldalszegély nyomtatása(&amp;B)"/>
+<dlgitem id="1221" text="Mit nyomtasson:(&amp;W)"/>
+<dlgitem id="1135" text="Papír forrás választás PDF lap mérethez(&amp;z)"/>
+<dlgitem id="1154" text="Előnézet"/>
+<dlgitem id="1222" text="Dokumentum:"/>
+<dlgitem id="1223" text="Papír:"/>
+<dlgitem id="1225" text="Egység:"/>
+<dlgitem id="1144" text="Statikus"/>
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+<dlgitem id="1143" text="Oldal mutatása"/>
+</Dialog>
+<Dialog id="791" text="Foxit Reader">
+<dlgitem id="1" text="OK"/>
+<dlgitem id="1227" text="Ez a PDF dokumentum kínai/japán/koreai karaktereket tartalmaz. A helyes megjelenítéshez telepítenie kell a FPDFCJK.BIN fájlt a Foxit alkalmazás mappájába. Ellenkező esetben előfordulhat, hogy egyes karakterek nem jelennek meg helyesen."/>
+<dlgitem id="1148" text="http://www.foxitsoftware.com/pdf/rd_intro.php"/>
+<dlgitem id="1228" text="A fájlt letöltheti a következő helyről"/>
+</Dialog>
+<Dialog id="723" text="Foxit Reader">
+<dlgitem id="1" text="OK"/>
+<dlgitem id="1227" text="Köszönjük, hogy a Foxit Reader-t használja! Ez a próba verzió a következő korlátozásokat tartalmazza:"/>
+<dlgitem id="1231" text="Ha megkívánja vásárolni a Foxit Reader Pro liszenszét, kérem látogasson el a weboldalunkra"/>
+<dlgitem id="1232" text="vagy írjon a sales@foxitsoftware.com címre."/>
+<dlgitem id="1148" text="http://www.foxitsoftware.com"/>
+<dlgitem id="1106" text="Ez az üzenet ne jelenjen meg többet."/>
+</Dialog>
+<Dialog id="252" text="Foxit Reader">
+<dlgitem id="1064" text="Induláskor mindíg ellenőrizze."/>
+<dlgitem id="1" text="Igen(&amp;Y)"/>
+<dlgitem id="2" text="Nem(&amp;N)"/>
+<dlgitem id="1065" text="Jelenleg a Foxit PDF Reader az ön rendszerén nem az alapértelmezett néző. Kívánja beállítani a Foxit PDF Reader-t alapértelmezett PDF nézőnek?"/>
+<dlgitem id="1228" text="A Foxit Reader alapértelmezett PDF nézőként való beállítása után a PDF fájlok dupla kattintással automatikusan a Foxit Reader-ben nyílnak meg vagy a weben is megnézheti a PDF fájlokat az Internet Explorer segítségével."/>
+<dlgitem id="1229" text="Az alapértelmezett PDF olvasó visszállítása egy másik olvasóra, el kell indítani a másik olvasót, és beállítani azt alapértelmezett PDF olvasónak."/>
+</Dialog>
+<Dialog id="285" text="Foxit Reader">
+<dlgitem id="1" text="OK"/>
+<dlgitem id="1065" text="Kijelölt terület Vágólapra másolva."/>
+<dlgitem id="1106" text="Ez az üzenet ne jelenjen meg többet."/>
+</Dialog>
+<Dialog id="150" text="Tulajdonságok">
+<dlgitem id="1244" text="Általános"/>
+<dlgitem id="1032" text="Statikus"/>
+<dlgitem id="1201" text="Statikus"/>
+<dlgitem id="1241" text="Speciális"/>
+<dlgitem id="1243" text="Oldalak száma:"/>
+<dlgitem id="1057" text="PDF verzió:"/>
+<dlgitem id="1208" text="Egyéni..."/>
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+<dlgitem id="1242" text="Oldal méret:"/>
+<dlgitem id="1233" text="Cím:"/>
+<dlgitem id="1234" text="Tárgy:"/>
+<dlgitem id="1235" text="Szerző:"/>
+<dlgitem id="1238" text="Kulcsszavak:"/>
+<dlgitem id="1236" text="Alkalmazás:"/>
+<dlgitem id="1237" text="Létrehozó:"/>
+<dlgitem id="1239" text="Létrehozva:"/>
+<dlgitem id="1240" text="Módosítva:"/>
+<dlgitem id="1205" text="Statikus"/>
+<dlgitem id="1207" text="Statikus"/>
+<dlgitem id="1203" text="Statikus"/>
+</Dialog>
+<Dialog id="788" text="Foxit Reader">
+<dlgitem id="1" text="OK"/>
+<dlgitem id="1245" text="Köszönjük, hogy a Foxit Reader-t használja"/>
+<dlgitem id="1246" text="Az imént használni kívánt funkció a Foxit Reader (Professional verzió) része. Ezt még használhatja itt, azonban, ha menteni akarja a PDF fájlt, a módosított oldalak próbaidős jelöléseket fognak tartalmazni."/>
+<dlgitem id="1106" text="Ez az üzenet ne jelenjen meg többet."/>
+<dlgitem id="1228" text="Amennyiben megvásárolja a Foxit Reader Professional verziót, könnyedén megszabadulhat a próbaidős jelölésektől."/>
+<dlgitem id="1270" text="Foxit Reader (Profesional verzió) licence megvásárlásához szükséges információkért látogasson el a Foxit Software weboldalára (www.foxitsoftware.com)."/>
+</Dialog>
+<Dialog id="786" text="Foxit Reader">
+<dlgitem id="1" text="OK"/>
+<dlgitem id="1245" text="Köszönjük, hogy a Foxit Reader-t használja"/>
+<dlgitem id="1228" text="A kért funkció a Foxit Reader (Professional verzió) része, a Standard verziót használók számára nem engedélyezett."/>
+<dlgitem id="1106" text="Ez az üzenet ne jelenjen meg többet."/>
+<dlgitem id="1270" text="Foxit Reader (Profesional verzió) licence megvásárlásához szükséges információkért látogasson el a Foxit Software weboldalára (www.foxitsoftware.com)."/>
+</Dialog>
+<Dialog id="787" text="Foxit Reader">
+<dlgitem id="1" text="OK"/>
+<dlgitem id="1245" text="Köszönjük, hogy a Foxit Reader-t használja"/>
+<dlgitem id="1246" text="Módosította ezt a dokumentumot, még elmentheti, azonban a módosított oldalak próbaidős jelöléseket fognak tartalmazni."/>
+<dlgitem id="1106" text="Ez az üzenet ne jelenjen meg többet."/>
+<dlgitem id="1057" text="(Standard verzió)."/>
+<dlgitem id="1228" text="Amennyiben megvásárolja a Foxit Reader Professional verziót, könnyedén megszabadulhat a próbaidős jelölésektől."/>
+<dlgitem id="1270" text="Foxit Reader (Profesional verzió) licence megvásárlásához szükséges információkért látogasson el a Foxit Software weboldalára (www.foxitsoftware.com)."/>
+</Dialog>
+<Dialog id="165" text="Szöveg nézőke színek">
+<dlgitem id="1254" text="Előtér"/>
+<dlgitem id="1251" text="vörös:"/>
+<dlgitem id="1202" text="Görgetősáv1"/>
+<dlgitem id="1252" text="zöld:"/>
+<dlgitem id="1206" text="Görgetősáv1"/>
+<dlgitem id="1253" text="kék:"/>
+<dlgitem id="1204" text="Görgetősáv1"/>
+<dlgitem id="1084" text="Háttér"/>
+<dlgitem id="1255" text="vörös:"/>
+<dlgitem id="1210" text="Görgetősáv1"/>
+<dlgitem id="1256" text="zöld:"/>
+<dlgitem id="1212" text="Görgetősáv1"/>
+<dlgitem id="1257" text="kék:"/>
+<dlgitem id="1214" text="Görgetősáv1"/>
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+</Dialog>
+<Dialog id="708"/>
+<Dialog id="673" text="PDF Betűtípus..">
+<dlgitem id="1048" text="Lista1"/>
+<dlgitem id="1258" text="Cél:"/>
+<dlgitem id="1051" text="Előnézet"/>
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+</Dialog>
+<Dialog id="672" text="Szöveg nézőke beállításai">
+<dlgitem id="1259" text="Aktuális oldalszélesség"/>
+<dlgitem id="1264" text="Minimális szélesség:"/>
+<dlgitem id="1043" text="Automatikus szélesség"/>
+<dlgitem id="1045" text="Automatikus forgatás"/>
+<dlgitem id="1242" text="Oszlop megtartása"/>
+<dlgitem id="1260" text="Aktuális dokumentum szélesség"/>
+<dlgitem id="1263" text="Minimális szélesség:"/>
+<dlgitem id="1058" text="Automatikus szélesség"/>
+<dlgitem id="1061" text="Automatikus forgatás"/>
+<dlgitem id="1060" text="Oszlop megtartása"/>
+<dlgitem id="1261" text="Rendszer alapértelmezett szélesség"/>
+<dlgitem id="1262" text="Minimális szélesség:"/>
+<dlgitem id="1240" text="Automatikus szélesség"/>
+<dlgitem id="1062" text="Automatikus forgatás"/>
+<dlgitem id="1056" text="Oszlop megtartása"/>
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+</Dialog>
+<Dialog id="158" text="Nagyítás">
+<dlgitem id="1203" text="Nagyítás:(&amp;M)"/>
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+</Dialog>
+<Dialog id="9026" text="Karakter térköz">
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+<dlgitem id="9018" text="Ritkított"/>
+<dlgitem id="9011" text="Sűrített"/>
+<dlgitem id="9027" text="ennyivel:"/>
+<dlgitem id="9029" text="ennyivel:"/>
+<dlgitem id="9014" text="Előnézet"/>
+<dlgitem id="9021" text="A különböző karakter térközökkel ritkíthatja vagy sűrítheti a szöveg sorokat."/>
+<dlgitem id="9023" text="pont"/>
+<dlgitem id="9025" text="pont"/>
+</Dialog>
+<Dialog id="9024" text="Vízszintes arány">
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Mégsem"/>
+<dlgitem id="9008" text="Előnézet"/>
+<dlgitem id="9031" text="Vízszintes arány:(&amp;H)"/>
+<dlgitem id="9033" text="%"/>
+</Dialog>
+<Dialog id="9054" text="Szimbólum">
+<dlgitem id="1" text="Beszúrás(&amp;I)"/>
+<dlgitem id="2" text="Mégsem(&amp;C)"/>
+</Dialog>
+<Dialog id="9020" text="Tulajdonságok beállítása">
+<dlgitem id="1" text="OK(&amp;O)"/>
+<dlgitem id="2" text="Mégsem(&amp;n)"/>
+<dlgitem id="9035" text="Alapértelmezett betűnév:(&amp;n)"/>
+<dlgitem id="9039" text="Alapértelmezett betűméret:(&amp;s)"/>
+<dlgitem id="9047" text="Háttérszín:(&amp;k)"/>
+<dlgitem id="9010" text="Módosít(&amp;g)"/>
+<dlgitem id="9041" text="Alapertelmezett nyújtás:(&amp;H)"/>
+<dlgitem id="65535" text="%"/>
+<dlgitem id="9043" text="Alapértelmezett térköz:(&amp;c)"/>
+<dlgitem id="9045" text="Alapértelmezett betűszín:(&amp;o)"/>
+<dlgitem id="9017" text="Változtat(&amp;a)"/>
+<dlgitem id="9037" text="Alapértelmezett betűstílus:"/>
+<dlgitem id="9005" text="Félkövér(&amp;B)"/>
+<dlgitem id="9019" text="Dölt(&amp;I)"/>
+</Dialog>
+<Dialog id="9022">
+<dlgitem id="9049" text="Betűtípus:"/>
+</Dialog>
+<Dialog id="793" text="Foxit Reader programfrissítés">
+<dlgitem id="1185" text="Letöltés(&amp;D)"/>
+<dlgitem id="2" text="Mégsem(&amp;C)"/>
+<dlgitem id="1178" text="Folyamat1"/>
+<dlgitem id="1187" text="Fájlnév:"/>
+<dlgitem id="1188" text="Hely:"/>
+<dlgitem id="1189" text="Hátralévő idő:"/>
+<dlgitem id="1186" text="Leírás:"/>
+</Dialog>
+<Dialog id="792" text="Hiányzó elemet találtam">
+<dlgitem id="1" text="Igen(&amp;Y)"/>
+<dlgitem id="2" text="Nem(&amp;N)"/>
+<dlgitem id="1186" text="PDF fáj megjelenítéséhez ez a fontos elem hiányzik. A PDF fájl helyes megtekintéséhez weboldalunkró le kell tölteni a frissítést."/>
+<dlgitem id="1226" text="Meglátogatja weboldalunkat további információkért?"/>
+</Dialog>
+<Dialog id="796" text="Foxit Reader">
+<dlgitem id="1" text="Letöltés"/>
+<dlgitem id="2" text="Mégsem"/>
+<dlgitem id="1265" text="Aktuális frissítés:"/>
+<dlgitem id="1266" text="Kijelölt frissítés"/>
+<dlgitem id="1269" text="(0,0 KB)"/>
+<dlgitem id="1169" text="Hozzáadás(&amp;A)"/>
+<dlgitem id="1170" text="Eltávolítás(&amp;R)"/>
+<dlgitem id="1186" text="Leírás:"/>
+<dlgitem id="1209" text="Állapot:"/>
+<dlgitem id="1267" text="Méret:"/>
+<dlgitem id="1174" text="Folyamat1"/>
+</Dialog>
+<Dialog id="815" text="Calculation Order">
+<dlgitem id="1312" text="Form fields:"/>
+<dlgitem id="1287" text="&amp;Up"/>
+<dlgitem id="1288" text="&amp;Down"/>
+<dlgitem id="1" text="OK"/>
+<dlgitem id="2" text="Cancel"/>
+</Dialog>
+<Dialog id="810" text="Progress">
+<dlgitem id="1271" text="Progress1"/>
+</Dialog>
+<Dialog id="812" text="Foxit Reader">
+<dlgitem id="2" text="Cancel"/>
+<dlgitem id="1313" text="Checking for updates..."/>
+</Dialog>
+<Dialog id="816">
+<dlgitem id="1290" text="Highlight fields"/>
+<dlgitem id="1312" text="This document contains interactive form fields."/>
+</Dialog>
+<Dialog id="814" text="JavaScript Editor">
+<dlgitem id="1317" text="Create and Edit JavaScripts:"/>
+<dlgitem id="1286" text="&amp;Font ..."/>
+<dlgitem id="1285" text="&amp;Reload"/>
+<dlgitem id="1284" text="&amp;Save"/>
+<dlgitem id="1283" text="&amp;Close"/>
+</Dialog>
+<Dialog id="813" text="Java Script Functions">
+<dlgitem id="2" text="&amp;Close"/>
+<dlgitem id="1275" text="Script &amp;Name:"/>
+<dlgitem id="1279" text="&amp;Add"/>
+<dlgitem id="1280" text="&amp;Edit"/>
+<dlgitem id="1281" text="&amp;Delete"/>
+</Dialog>
+<Dialog id="819">
+<dlgitem id="1314" text="Highlight Color"/>
+<dlgitem id="1301" text="&amp;Highlight all fields"/>
+<dlgitem id="1303" text="C&amp;heck Box"/>
+<dlgitem id="1302" text="&amp;Combo Box"/>
+<dlgitem id="14009" text="&amp;Radio Button"/>
+<dlgitem id="14010" text="&amp;List Box"/>
+<dlgitem id="14011" text="&amp;Text Field"/>
+<dlgitem id="14012" text="P&amp;ush Button"/>
+<dlgitem id="1316" text="Classified fields highlight :"/>
+<dlgitem id="1315" text="O&amp;pacity:"/>
+<dlgitem id="1304" text="Slider1"/>
+<dlgitem id="1319" text="Set highlight la&amp;yer:"/>
+</Dialog>
+<Dialog id="10061" text="Please wait ...">
+<dlgitem id="10118" text="Here is the information message."/>
+</Dialog>
+<Dialog id="10055" text="Create Link">
+<dlgitem id="10086" text="Appearance"/>
+<dlgitem id="10095" text="Th&amp;ickness:"/>
+<dlgitem id="10097" text="Spin1"/>
+<dlgitem id="10089" text="Border &amp;Style:"/>
+<dlgitem id="10091" text="&amp;Highlight:"/>
+<dlgitem id="10093" text="C&amp;olor:"/>
+<dlgitem id="10098" text="Destination"/>
+<dlgitem id="10104" text="Go to a page &amp;view"/>
+<dlgitem id="10105" text="Go to a named &amp;position"/>
+<dlgitem id="10102" text="Open / &amp;execute a file"/>
+<dlgitem id="10103" text="Open a &amp;web page"/>
+<dlgitem id="10106" text="Others (use action property page)"/>
+<dlgitem id="10100" text="Ne&amp;xt ..."/>
+<dlgitem id="10108" text="&amp;Cancel"/>
+</Dialog>
+<Dialog id="10058" text="Go to a page view">
+<dlgitem id="10110" text="&amp;Set this position"/>
+<dlgitem id="10111" text="&amp;Cancel"/>
+<dlgitem id="10109" text="Move the document to the new position you want to set. You may scroll the page or  change the current zoom setting. 
+
+You may also open or activate another PDF document to apply."/>
+</Dialog>
+<Dialog id="10057" text="Go to a named position">
+<dlgitem id="10112" text="Select a named position from the below list:"/>
+<dlgitem id="1" text="&amp;OK"/>
+<dlgitem id="2" text="&amp;Cancel"/>
+</Dialog>
+<Dialog id="10059" text="URL Edition">
+<dlgitem id="10114" text="Enter a web site or other URL address:"/>
+<dlgitem id="1" text="&amp;OK"/>
+<dlgitem id="2" text="&amp;Cancel"/>
+</Dialog>
+<Dialog id="10000" text="Appearance">
+<dlgitem id="10000" text="&amp;Thickness:"/>
+<dlgitem id="10018" text="Spin1"/>
+<dlgitem id="10009" text="Border st&amp;yle:"/>
+<dlgitem id="10030" text="&amp;pattern:"/>
+<dlgitem id="10001" text="Colo&amp;r:"/>
+<dlgitem id="10003" text="&amp;Fill color:"/>
+<dlgitem id="10005" text="Line &amp;starting:"/>
+<dlgitem id="10007" text="Line &amp;ending:"/>
+<dlgitem id="10019" text="&amp;Opacity:"/>
+<dlgitem id="10027" text="%"/>
+<dlgitem id="10017" text="Slider1"/>
+<dlgitem id="10011" text="Sho&amp;w text in line"/>
+</Dialog>
+<Dialog id="10028" text="Dash Pattern">
+<dlgitem id="10030" text="&amp;Dash pattern:"/>
+<dlgitem id="10029" text="List2"/>
+<dlgitem id="10119" text="Edit Pattern"/>
+<dlgitem id="10120" text="&amp;Length:"/>
+<dlgitem id="10037" text="Spin1"/>
+<dlgitem id="10121" text="&amp;Gap:"/>
+<dlgitem id="10039" text="Spin1"/>
+<dlgitem id="4294967295" text="&amp;Phase:"/>
+<dlgitem id="10041" text="Spin1"/>
+<dlgitem id="1" text="&amp;OK"/>
+<dlgitem id="2" text="&amp;Cancel"/>
+</Dialog>
+<Dialog id="10001" text="General">
+<dlgitem id="10020" text="&amp;Author:"/>
+<dlgitem id="10021" text="S&amp;ubject:"/>
+<dlgitem id="10025" text="&amp;Description:"/>
+<dlgitem id="10027" text="Name:"/>
+<dlgitem id="10022" text="Created:"/>
+<dlgitem id="10024" text="Modified:"/>
+</Dialog>
+<Dialog id="10047" text="Info">
+<dlgitem id="10085" text="Property Controller
+
+All rights reserved
+Copyright(C) by Foxit Software Inc. 2005-2006"/>
+</Dialog>
+<Dialog id="10002" text="Review History">
+<dlgitem id="10025" text="Tree1"/>
+<dlgitem id="10039" text="Any change of the status will be record in the above list for this markup. Status can be changed from popup menu."/>
+</Dialog>
+<Dialog id="4006" text="Note Type">
+<dlgitem id="4007" text="Note type:"/>
+</Dialog>
+</Dialogs>
+<Strings>
+<string id="100" text="OLE inicializálás sikertelen. Győződjön meg róla, hogy az OLE könyvtáraknak helyes a verziója."/>
+<string id="128" text="Foxit Reader 1.3"/>
+<string id="129" text="\nFoxit PDF Reader\nPDF\nPDF fájl(*.pdf)\n.pdf\nFoxitReader.Document\nPDF Dokumentum"/>
+<string id="1022" text="                                                  "/>
+<string id="2015" text="2005-2006 Foxit Software"/>
+<string id="2016" text="1.3 Build 1625"/>
+<string id="2017" text="Az alapértelmezett PDF olvasó visszállítása egy másik olvasóra, el kell indítani a másik olvasót, és beállítani azt alapértelmezett PDF olvasónak."/>
+<string id="2020" text="védett. Kérem adja meg a Megnyitáshoz a jelszót."/>
+<string id="2021" text="Kattintson ide, hogy megtudja, hogyan használhatja ki a Foxit Reader fejlett szolgáltatásait!"/>
+<string id="2022" text="Kattintson ide, hogy megtudja, hogyan használhatja az INGYENES írógép szolgáltatást bármelyik PDF dokumentumban!"/>
+<string id="2023" text="Kattintson ide, hogy megtudja, hogyan módosíthat egy már létező PDF fájlt!"/>
+<string id="2024" text="Most bármelyik PDF fájlban használhatja az ingyenes Írógép szolgáltatást.\n\nCsak nyomja le az \&quot;Írógép\&quot; gombot az eszköztáron, vagy válassza \&quot;Írógép\&quot;\nmenüpontot a \&quot;Szerkesztés\&quot; menüben, azután kattintso"/>
+<string id="2026" text="Hiba a dokumentum megnyitásánál. A fájl megsérült és nem javítható."/>
+<string id="2027" text="Nincs ilyen oldal:"/>
+<string id="2028" text="Nem lehet elindítani az alkalmazást."/>
+<string id="2029" text="A megadott \'%s\' oldal nincs a dokumentumban."/>
+<string id="2031" text="Copyright (C)"/>
+<string id="2032" text="Weboldal:http://www.foxitsoftware.com"/>
+<string id="2033" text="Minden jog fenntartva."/>
+<string id="2034" text="Verzió"/>
+<string id="2035" text="A szöveg nem található"/>
+<string id="2036" text="Foxit PDF Reader befejezte a keresést a dokumentumban."/>
+<string id="2037" text="Sajnos a dokumentum nyomtatása nem megengedett.&#10;&#10; Oka: A dokumentum biztonsági engedélye tiltja a nyomtatást."/>
+<string id="2038" text="Sajnos szöveg másolása ebből a dokumentumból nem megengedett.&#10;&#10; Oka: A dokumentum biztonsági engedélye tiltja a szöveg másolást."/>
+<string id="2039" text="Sajnos ennek a dokumentumnak a mentése nem megengedett. Csak az eredeti dokumentum másolatát lehet menteni.&#10;&#10; Oka: A dokumentum biztonsági engedélye tiltja a mentést."/>
+<string id="2040" text="A dokumentum nem menthető. Ez a fájl már meg van nyitva."/>
+<string id="2041" text="Mielőtt nyomtatási feladatot végezne, mint például oldalbeállítás&#10; vagy dokumentum nyomtatás, telepítenie kell egy nyomtatót.&#10;"/>
+<string id="2042" text="A dokumentumot nem lehetett elmenteni. Lehet, hogy a fájl csak olvasható vagy egy másik felhasználónál nyitva van. Kérem, másik névvel vagy egy másik könyvtárba mentse el a dokumentumot."/>
+<string id="2043" text="Dokumentum"/>
+<string id="2044" text="Dokumentum és jegyzetek"/>
+<string id="2045" text="Dokumentum és jegyzetek"/>
+<string id="2046" text="Dokumentum"/>
+<string id="2047" text="Akarja menteni a módosításokat '%s' fájlban, mielőtt bezárja?"/>
+<string id="2050" text="Egyetlen oldal"/>
+<string id="2051" text="Folyamatos"/>
+<string id="2052" text="Oldalpár"/>
+<string id="2053" text="Folyamatos oldalpár"/>
+<string id="2054" text="Tényleges méret"/>
+<string id="2055" text="Oldalhoz igazítás"/>
+<string id="2056" text="Szélességhez igazítás"/>
+<string id="2057" text="Fájl eszköztár"/>
+<string id="2058" text="Navigáció"/>
+<string id="2059" text="Nagyítás eszköztár"/>
+<string id="2060" text="Forgatás eszköztár"/>
+<string id="2061" text="Alap eszköztár"/>
+<string id="2062" text="Szöveg nézőke"/>
+<string id="2063" text="Teljes képernyő"/>
+<string id="2064" text="Súgó"/>
+<string id="2070" text="Ez a fontos elem (%s) hiányzik a Foxit Reader-ből. A helyes megjelenítéshez weboldalunkról le kell tölteni a frissítést."/>
+<string id="2071" text="Fail to download..."/>
+<string id="2072" text="Frissítések vizsgálata..."/>
+<string id="2073" text="Frissítés letöltése"/>
+<string id="2074" text="Frissítés telepítése"/>
+<string id="2075" text="Szünet(&amp;P)"/>
+<string id="2076" text="Folytatás(&amp;C)"/>
+<string id="2077" text="Kész(&amp;D)"/>
+<string id="2078" text="óra"/>
+<string id="2079" text="perc"/>
+<string id="2080" text="mp"/>
+<string id="2081" text="Professziónális verzió"/>
+<string id="2082" text="foglalt"/>
+<string id="2083" text="ajtó nyitva"/>
+<string id="2084" text="hiba állapotban"/>
+<string id="2085" text="inicializálás"/>
+<string id="2086" text="aktív bemenő/kimenő állapotban"/>
+<string id="2087" text="kézi adagolás állapotban"/>
+<string id="2088" text="toner kifogyott"/>
+<string id="2089" text="nyomtatás nem elérhető"/>
+<string id="2090" text="offline"/>
+<string id="2091" text="kevés a memória"/>
+<string id="2092" text="tálca megtelt"/>
+<string id="2093" text="aktuális oldalt nem lehet nyomtatni"/>
+<string id="2094" text="A papír beszorult a nyomtatóba"/>
+<string id="2095" text="papír kifogyott"/>
+<string id="2096" text="papír probléma"/>
+<string id="2097" text="szüneteltetve"/>
+<string id="2098" text="nyomtatási feladat törlése"/>
+<string id="2099" text="energiatakarékos mód"/>
+<string id="2100" text="nyomtatás"/>
+<string id="2101" text="nyomtatás feldolgozása"/>
+<string id="2102" text="ismeretlen státusz"/>
+<string id="2103" text="kevés festék"/>
+<string id="2104" text="hiba, felhasználói beavatkozást igényel"/>
+<string id="2105" text="várakozás"/>
+<string id="2106" text="felmelegítés"/>
+<string id="2107" text="kész"/>
+<string id="2108" text="Könyvjelzők"/>
+<string id="2109" text="Oldal"/>
+<string id="2110" text="Eszköztár elrejtése"/>
+<string id="2111" text="Eszköztár megjelenítése"/>
+<string id="2112" text="PDF fájl"/>
+<string id="2113" text="Minden fájl"/>
+<string id="2114" text="Alap eszköztár"/>
+<string id="2115" text="Megyjegyzés eszköztár"/>
+<string id="2116" text="Űrlap eszköztár"/>
+<string id="2117" text="Rajz eszköztár"/>
+<string id="2118" text="Ötletes szöveg eszköztár"/>
+<string id="2119" text="Általános"/>
+<string id="2120" text="Dokumentum színek"/>
+<string id="2121" text="Oldalmegjelenítés"/>
+<string id="2122" text="Oldalhoz igazítás"/>
+<string id="2123" text="Tényleges méret"/>
+<string id="2124" text="Nincs"/>
+<string id="2125" text="Több oldal egy lapon"/>
+<string id="2126" text="Normál"/>
+<string id="2127" text="Jobbra"/>
+<string id="2128" text="Balra"/>
+<string id="2129" text="Hüvelyk"/>
+<string id="2130" text="Minden oldal"/>
+<string id="2131" text="Páratlan oldalak"/>
+<string id="2132" text="Páros oldalak"/>
+<string id="2133" text="Egyéni..."/>
+<string id="2134" text="A nagyítási érték a 'Tényleges méret', 'Oldalhoz igazítás', 'Szélességhez igazítás' lehet vagy %s és %s között kell lennie."/>
+<string id="2135" text="Kérem %s és %s között adjon meg értéket."/>
+<string id="2136" text="Fájl"/>
+<string id="2137" text="Foxit Reader névjegye...(&amp;A)"/>
+<string id="2138" text="Foxit Re&amp;ader Pro névjegye...  "/>
+<string id="2139" text="Vízszintes"/>
+<string id="2140" text="Vízszintesen elfordított"/>
+<string id="2141" text="Függőleges"/>
+<string id="2142" text="Függőlegesen elfordított"/>
+<string id="2143" text="Keresés %d of %d"/>
+<string id="2144" text="Nyomtatás %d of %d : %d"/>
+<string id="2145" text="Fáljok konvertálása"/>
+<string id="2146" text="The document is trying to connect to the site:\n\n%s\n\nIf you trust the site, click &quot;Yes&quot;, otherwise click &quot;No&quot;\n"/>
+<string id="2147" text="Security Warning"/>
+<string id="2148" text="Please press &apos;Download&apos; button to start."/>
+<string id="2149" text="Update installing process finished,please press &apos;Done&apos; button to close the window."/>
+<string id="2150" text="Fail to install."/>
+<string id="2151" text="file error: not found or could not be opened."/>
+<string id="2152" text="format error: not a PDF or corrupted."/>
+<string id="2153" text="Invalid password. Please input again."/>
+<string id="2154" text="This document is encrypted by some unsupported security handler. "/>
+<string id="2155" text="Cannot open the file or file is not found!"/>
+<string id="2156" text="Error"/>
+<string id="2157" text="Cannot open the form data file or file is not found!"/>
+<string id="2158" text="Export the form data to the following file:\n\n%s\n\nsuccessfully!"/>
+<string id="2159" text="Information"/>
+<string id="2160" text="Cannot export or access the form data!"/>
+<string id="2161" text="Import the form data from the following file:\n\n%s\n\nsuccessfully!"/>
+<string id="2162" text="Cannot import or access the form data!"/>
+<string id="2163" text="Confirmation"/>
+<string id="2164" text="This option will reset all the form fields to the default values.\nYou may lose some data. Are you sure?\n\nPress &quot;Yes&quot; button to accept, or &quot;No&quot; button to deny."/>
+<string id="2165" text="Cannot reset or access the form data!"/>
+<string id="2166" text="Forms"/>
+<string id="2167" text="*Critical Update"/>
+<string id="2168" text="At default position"/>
+<string id="2169" text="Below field"/>
+<string id="2170" text="Above field"/>
+<string id="4000" text="Text Annotation"/>
+<string id="4001" text="Text"/>
+<string id="4002" text="&amp;Set CheckMark"/>
+<string id="4003" text="&amp;Remove CheckMark"/>
+<string id="4004" text="Note Tool"/>
+<string id="4005" text="Note Type"/>
+<string id="4006" text="Note Tool"/>
+<string id="4007" text="Create note markup"/>
+<string id="4008" text="Unknown"/>
+<string id="4009" text="Comment"/>
+<string id="4010" text="Key"/>
+<string id="4011" text="Note"/>
+<string id="4012" text="Help"/>
+<string id="4013" text="New Paragraph"/>
+<string id="4014" text="Paragraph"/>
+<string id="4015" text="Insert"/>
+<string id="6000" text="Pencil Tool"/>
+<string id="6001" text="Rubber Tool"/>
+<string id="6002" text="Arrow Tool"/>
+<string id="6003" text="Line Tool"/>
+<string id="6004" text="Square Tool"/>
+<string id="6005" text="Circle Tool"/>
+<string id="6006" text="Polygon Tool"/>
+<string id="6007" text="Polygon Line Tool"/>
+<string id="6008" text="Cloudy Tool"/>
+<string id="6009" text="Dimension Tool"/>
+<string id="6010" text="Rectangle Tool"/>
+<string id="6011" text="Ellipse Tool"/>
+<string id="6012" text="Arrow Tool"/>
+<string id="6013" text="Create arrow line markup"/>
+<string id="6014" text="Line Tool"/>
+<string id="6015" text="Create line markup"/>
+<string id="6016" text="Dimension Tool"/>
+<string id="6017" text="Create dimensional line markup"/>
+<string id="6018" text="Square Tool"/>
+<string id="6019" text="Create square markup"/>
+<string id="6020" text="Rectangle Tool"/>
+<string id="6021" text="Create rectangle markup"/>
+<string id="6022" text="Circle Tool"/>
+<string id="6023" text="Create circle markup"/>
+<string id="6024" text="Ellipse Tool"/>
+<string id="6025" text="Create ellipse markup"/>
+<string id="6026" text="Polygon Tool"/>
+<string id="6027" text="Create polygon markup"/>
+<string id="6028" text="Cloudy Tool"/>
+<string id="6029" text="Create cloudy polygon markup"/>
+<string id="6030" text="Polygon line Tool"/>
+<string id="6031" text="Create polygon line markup"/>
+<string id="6032" text="Pencil Tool"/>
+<string id="6033" text="Scribble in freehand in current page"/>
+<string id="6034" text="Pencil rubber Tool"/>
+<string id="6035" text="Erase the path drawed by pencil tool"/>
+<string id="8576" text="Highlight"/>
+<string id="8577" text="Highlight Annotation"/>
+<string id="8578" text="Highlight Annotation"/>
+<string id="8579" text="Highlight Annotation Tool"/>
+<string id="8580" text="Highlight Annotation Tool"/>
+<string id="8581" text="Underline"/>
+<string id="8582" text="Underline Annotation"/>
+<string id="8583" text="Underline Annotation"/>
+<string id="8584" text="Underline Annotation Tool"/>
+<string id="8585" text="Underline Annotation Tool"/>
+<string id="8586" text="Strikeout"/>
+<string id="8587" text="Strikeout Annotation"/>
+<string id="8588" text="Strikeout Annotation"/>
+<string id="8589" text="Strikeout Annotation Tool"/>
+<string id="8590" text="Strikeout Annotation Tool"/>
+<string id="8600" text="Squiggly Annotation"/>
+<string id="8601" text="Squiggly Annotation"/>
+<string id="8602" text="Squiggly Annotation"/>
+<string id="8603" text="Squiggly Annotation Tool"/>
+<string id="8604" text="Squiggly Annotation Tool"/>
+<string id="8605" text="Caret Annotation Tool"/>
+<string id="8606" text="Caret Annotation Tool"/>
+<string id="8607" text="Highlight Tool"/>
+<string id="8608" text="Create highlight markup"/>
+<string id="8609" text="Underline Tool"/>
+<string id="8610" text="Create underline markup"/>
+<string id="8611" text="Strikeout Tool"/>
+<string id="8612" text="Create strikeout markup"/>
+<string id="8613" text="Squiggly Tool"/>
+<string id="8614" text="Create squiggly markup"/>
+<string id="8615" text="Caret Tool"/>
+<string id="8616" text="Create caret markup"/>
+<string id="9000" text="Typewriter"/>
+<string id="9001" text="Sorry, enter value nust between 0-32."/>
+<string id="9002" text="Sorry, enter value nust between %.2f-%.2f."/>
+<string id="10002" text="Length cannot be empty, please enter valid value!"/>
+<string id="10003" text="Gap cannot be empty, please enter valid value!"/>
+<string id="10004" text="There is no item selected!"/>
+<string id="10005" text="Are you sure to delete this dash pattern item?"/>
+<string id="10006" text="Error"/>
+<string id="10007" text="Confirmation"/>
+<string id="10008" text="Length"/>
+<string id="10009" text="Gap"/>
+<string id="10010" text="Annotation"/>
+<string id="10011" text="Markup"/>
+<string id="10012" text=" Properties"/>
+<string id="10013" text="Text"/>
+<string id="10014" text="Link"/>
+<string id="10015" text="Free Text"/>
+<string id="10016" text="Line"/>
+<string id="10017" text="Square"/>
+<string id="10018" text="Circle"/>
+<string id="10019" text="Polygon"/>
+<string id="10020" text="Polygon Line"/>
+<string id="10021" text="Highlight"/>
+<string id="10022" text="Underline"/>
+<string id="10023" text="Squiggly"/>
+<string id="10024" text="Strikeout"/>
+<string id="10025" text="Stamp"/>
+<string id="10026" text="Caret"/>
+<string id="10027" text="Ink"/>
+<string id="10028" text="Popup"/>
+<string id="10029" text="File Attachment"/>
+<string id="10030" text="Sound"/>
+<string id="10031" text="Movie"/>
+<string id="10032" text="Widget"/>
+<string id="10033" text="Screen"/>
+<string id="10034" text="Printer Mark"/>
+<string id="10035" text="Trap Network"/>
+<string id="10036" text="Watermark"/>
+<string id="10037" text="3D"/>
+<string id="10038" text="Note"/>
+<string id="10039" text="Link"/>
+<string id="10040" text="Text Box"/>
+<string id="10041" text="Line"/>
+<string id="10042" text="Rectangle"/>
+<string id="10043" text="Oval"/>
+<string id="10044" text="Polygon"/>
+<string id="10045" text="Polygon Line"/>
+<string id="10046" text="Highlight"/>
+<string id="10047" text="Underline"/>
+<string id="10048" text="Underline"/>
+<string id="10049" text="Cross-out"/>
+<string id="10050" text="Stamp"/>
+<string id="10051" text="Insertion Caret"/>
+<string id="10052" text="Pencil"/>
+<string id="10053" text="Popup"/>
+<string id="10054" text="File Attachment"/>
+<string id="10055" text="Sound"/>
+<string id="10056" text="Movie"/>
+<string id="10057" text="Push Button"/>
+<string id="10058" text="Check Box"/>
+<string id="10059" text="Radio Button"/>
+<string id="10060" text="Combo Box"/>
+<string id="10061" text="List Box"/>
+<string id="10062" text="Text Field"/>
+<string id="10063" text="Widget"/>
+<string id="10064" text="Multimedia"/>
+<string id="10065" text="Printer Mark"/>
+<string id="10066" text="Trap Network"/>
+<string id="10067" text="Watermark"/>
+<string id="10068" text="3D"/>
+<string id="10069" text="Signature"/>
+<string id="10070" text="Solid"/>
+<string id="10071" text="Dashed"/>
+<string id="10072" text="Beveled"/>
+<string id="10073" text="Inset"/>
+<string id="10074" text="Underline"/>
+<string id="10075" text="Cloudy"/>
+<string id="10076" text="Dashed 1\nDashed 2\nDashed 3\nDashed 4\nDashed 5\nDashed 6\nCustomized ..."/>
+<string id="10077" text="Cloudy 1\nCloudy 2"/>
+<string id="10078" text="Dashed &amp;pattern:"/>
+<string id="10079" text="Cloudy &amp;pattern:"/>
+<string id="10080" text="&amp;Lock the annotation"/>
+<string id="10081" text="&amp;Close"/>
+<string id="10082" text="Review history"/>
+<string id="10083" text="Migration history"/>
+<string id="10084" text="None\nOpen\nClosed\nOpen (Reverse)\nClosed (Reverse)\nButt\nDiamond\nRound\nSquare\nSlash"/>
+<string id="10085" text="(not identical)"/>
+<string id="10095" text="Note"/>
+<string id="10096" text="Typewriter"/>
+<string id="10097" text="Line"/>
+<string id="10098" text="Rectangle"/>
+<string id="10099" text="Ellipse"/>
+<string id="10100" text="Polygon"/>
+<string id="10101" text="Polygon Line"/>
+<string id="10102" text="Highlight"/>
+<string id="10103" text="Underline"/>
+<string id="10104" text="Underline"/>
+<string id="10105" text="Cross-out"/>
+<string id="10106" text="Stamp"/>
+<string id="10107" text="Inserted Text"/>
+<string id="10108" text="Pencil"/>
+<string id="10109" text="File Attachment"/>
+<string id="10110" text="Sound Attachment"/>
+<string id="10111" text="Markup"/>
+<string id="10112" text="No Color"/>
+<string id="10113" text="Other Color ..."/>
+<string id="10114" text="Annotation Selection Tool"/>
+<string id="10115" text="Annotation Selection Tool"/>
+<string id="10116" text="Select any annotation"/>
+<string id="10117" text="Rectangle Link Tool"/>
+<string id="10118" text="Quadrilateral Link Tool"/>
+<string id="10119" text="Rectangle Link Tool"/>
+<string id="10120" text="Create rectangle link annotation"/>
+<string id="10121" text="Quadrilateral Link Tool"/>
+<string id="10122" text="Create quadrilateral link annotation"/>
+<string id="10123" text="None"/>
+<string id="10124" text="Invert"/>
+<string id="10125" text="Outline"/>
+<string id="10126" text="Inset"/>
+<string id="10127" text="Enumerate all named positions in the current PDF document.\nThis may take your several minutes, please wait ..."/>
+<string id="10128" text="Info"/>
+<string id="10129" text="Appearance"/>
+<string id="10130" text="General"/>
+<string id="10131" text="Review History"/>
+<string id="16640" text="Kattintson ide, tovább tanítjuk!\nKattintás ide"/>
+<string id="32773" text="Köszönjük a Foxit Software termék megrendelését!\nMegrendelés"/>
+<string id="32774" text="Látogatás a Foxit Software honlapjára."/>
+<string id="32775" text="Támogatás kérése a Foxit Software-től weben keresztűl."/>
+<string id="32776" text="PDF fájl tulajdonságainak megjelenítése\nTulajdonságok"/>
+<string id="32777" text="Első oldal\nElső oldal"/>
+<string id="32778" text="Előző oldal\nElőző oldal"/>
+<string id="32779" text="Következő oldal\nKövetkező oldal"/>
+<string id="32780" text="Utolsó oldal\nUtolsó oldal"/>
+<string id="32782" text="Könyvjelző mutatása/elrejtése\nKönyvjelző"/>
+<string id="32783" text="Teljes képernyő\nTeljes képernyő"/>
+<string id="32784" text="Kéz eszköz\nKéz"/>
+<string id="32785" text="Kicsinyítési eszköz\nKicsinyítés"/>
+<string id="32786" text="Nagyítási eszköz\nNagyítás"/>
+<string id="32787" text="Nagyítás\nNagyítás"/>
+<string id="32788" text="Kicsinyítés\nKicsinyítés"/>
+<string id="32789" text="Nagyítás méretre\nNagyítás méretre"/>
+<string id="32790" text="Tényleges méret\nTényleges méret"/>
+<string id="32791" text="Oldalhoz igazítás\nOldalhoz igazítás"/>
+<string id="32792" text="Szélességhez igazítás\nSzélességhez igazítás"/>
+<string id="32793" text="Szöveg nézőke\nSzöveg nézőke"/>
+<string id="32795" text="Minden dokumentum bezárása\nMinden bezárása"/>
+<string id="32796" text="Szöveg nézőke\nSzöveg nézőke"/>
+<string id="32802" text="Dokumentum változtatás új betűtípussal\nBetűtípus"/>
+<string id="32862" text="Aktív dokumentum mentése új néven\nMentés másként"/>
+<string id="32898" text="Menüsor mutatása vagy elrejtéser\nMenüsor jelző"/>
+<string id="32925" text="Egyetlen oldal\nEgyetlen oldal"/>
+<string id="32926" text="Folymatos\nFolymatos"/>
+<string id="32932" text="Aktív dokumentum mentése új néven\nMentés másként"/>
+<string id="32935" text="Forgatás jobbra\nForgatás jobbra"/>
+<string id="32938" text="Oldalpár\nOldalpár"/>
+<string id="32939" text="Folyamatos-oldalpár\nFolyamatos-oldalpár"/>
+<string id="32941" text="Forgatás balra\nForgatás balra"/>
+<string id="32942" text="Fordított\nFordított"/>
+<string id="32977" text="Szöveg kijelölés eszköz\nSzöveg kijelölés"/>
+<string id="32985" text="Beállítások\nBeállítások"/>
+<string id="32987" text="Pillanatfelvétel eszköz\nPillanatfelvétel"/>
+<string id="33060" text="Félkövér\nFélkövér"/>
+<string id="33061" text="Dölt\nDölt"/>
+<string id="33064" text="Szöveg nézőke tulajdonságainak beállítása&#10;Tulajdonságok beállítása"/>
+<string id="33066" text="Szöveg betűtípus\nBetűtípus"/>
+<string id="33069" text="Szín\nSzín"/>
+<string id="33071" text="PDF betűtípus\nPDF betűtípus"/>
+<string id="33097" text="Előző nézet\nElőző nézet"/>
+<string id="33098" text="Következő nézet\nKövetkező nézet"/>
+<string id="33124" text="Highlight\nHighlight"/>
+<string id="57600" text="Új dokumentum létrehozása\nÚj"/>
+<string id="57601" text="Létező dokumentum megnyitása\nMegnyitás"/>
+<string id="57602" text="Aktív dokumentum bezárása\nBezárás"/>
+<string id="57603" text="Aktív dokumentum mentése\nMentés"/>
+<string id="57604" text="Aktív dokumentum mentése új néven\nMentés másként"/>
+<string id="57605" text="Nyomtatási opciók módosítása\nOldalbeállítás"/>
+<string id="57606" text="Nyomtató és nyomtatási opciók módosítása\nNyomtatóbeállítás"/>
+<string id="57607" text="Aktív dokumentum nyomtatása\nNyomtatás"/>
+<string id="57609" text="A teljes oldal megjelenítése\nNyomtátási előnézet"/>
+<string id="57616" text="Dokumentum megnyitása"/>
+<string id="57617" text="Dokumentum megnyitása"/>
+<string id="57618" text="Dokumentum megnyitása"/>
+<string id="57619" text="Dokumentum megnyitása"/>
+<string id="57620" text="Dokumentum megnyitása"/>
+<string id="57621" text="Dokumentum megnyitása"/>
+<string id="57622" text="Dokumentum megnyitása"/>
+<string id="57623" text="Dokumentum megnyitása"/>
+<string id="57624" text="Dokumentum megnyitása"/>
+<string id="57625" text="Dokumentum megnyitása"/>
+<string id="57626" text="Dokumentum megnyitása"/>
+<string id="57627" text="Dokumentum megnyitása"/>
+<string id="57628" text="Dokumentum megnyitása"/>
+<string id="57629" text="Dokumentum megnyitása"/>
+<string id="57630" text="Dokumentum megnyitása"/>
+<string id="57631" text="Dokumentum megnyitása"/>
+<string id="57632" text="Kijelölés törlése\nTörlés"/>
+<string id="57633" text="Minden törlése\nMind törlése"/>
+<string id="57634" text="Kijelölés másolása és a Vágólapra helyezése\nMásolás"/>
+<string id="57635" text="Kijelölés kivágása és a Vágólapra helyezése\nKivágás"/>
+<string id="57636" text="Megadott szöveg keresése\nKeresés"/>
+<string id="57637" text="Vágólapon lévő tartalom beillesztése\nBeilesztés"/>
+<string id="57640" text="Utolsó művelet ismétlése\nIsmétlés"/>
+<string id="57641" text="Megadott szöveg kicserélése kölönböző szövegekben\nCsere"/>
+<string id="57642" text="Az egész dokumentum kijelölése\nMind kijelölése"/>
+<string id="57643" text="Utolsó művelet visszavonása\nVisszavonás"/>
+<string id="57644" text="Előzőleg visszavont művelet végrehajtása\nÚjra"/>
+<string id="57648" text="Aktív dokumentum ismételt megnyitása egy új ablakban\nÚj ablak"/>
+<string id="57649" text="Ikonok elrendezése az ablak alján\nIkonok elrendezése"/>
+<string id="57650" text="Ablakok átlapolt elrendezése\nLépcsőzetes ablakok"/>
+<string id="57651" text="Ablakok mozaikszerű elrendezése nem átlapoltan\nMozaik ablakok"/>
+<string id="57652" text="Ablakok mozaikszerű elrendezése nem átlapoltan\nMozaik ablakok"/>
+<string id="57653" text="Aktív ablak felosztása panelekre\nFelosztás"/>
+<string id="57664" text="Program információ megjelenítése, verziószám és szerzői jog\nNévjegy"/>
+<string id="57665" text="Kilépés az alkalmazásból; rákérdezés a dokumentum mentésére\nKilépés"/>
+<string id="57680" text="Átkapcsolás a következő ablak panelra\nKövetkező panel"/>
+<string id="57681" text="Átkapcsolás az előző ablak panelra\nElőző panel"/>
+<string id="59136" text="EXT"/>
+<string id="59137" text="CAP"/>
+<string id="59138" text="NUM"/>
+<string id="59139" text="SCRL"/>
+<string id="59140" text="OVR"/>
+<string id="59141" text="REC"/>
+<string id="59392" text="Eszköztár mutatása vagy elrejtése\nEszköztár jelző"/>
+<string id="59393" text="Státuszsor mutatása vagy elrejtése\nStátuszsor jelző"/>
+<string id="61184" text="Ablakméret módosítása"/>
+<string id="61185" text="Ablak helyzetének változtatása"/>
+<string id="61186" text="Ablak összecsukása ikon méretre"/>
+<string id="61187" text="Ablak képernyőméretre növelése"/>
+<string id="61188" text="Átkapcsolás a következő dokumentum ablakra"/>
+<string id="61189" text="Átkapcsolás az előző dokumentum ablakra"/>
+<string id="61190" text="Aktív ablak bezárása és rákérdezés a dokumentum mentésére"/>
+<string id="61202" text="Ablak visszaállítása normál méretre"/>
+<string id="61203" text="Feladatlista aktiválása"/>
+<string id="61215" text="Ablak aktivizálása"/>
+<string id="61445" text="Nyomtatási előnézet mód bezárása\nElőnézet megszakítása"/>
+</Strings>
+</Reader>

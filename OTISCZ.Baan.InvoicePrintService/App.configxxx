@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+  </configSections>
+  <applicationSettings>
+    <OTISCZ.Baan.InvoicePrintService.Properties.Settings>
+      <setting name="PclConverterPath" serializeAs="String">
+        <value>C:\Install\pdf2vec_cmd\pdf2vec_cmd\pdf2vec.exe</value>
+      </setting>
+      <setting name="LpdServerIpName1" serializeAs="String">
+        <value>172.25.106.42</value>
+      </setting>
+      <setting name="PrinterName1" serializeAs="String">
+        <value>Xerox5222</value>
+      </setting>
+      <setting name="SourcePdfFolder1" serializeAs="String">
+        <value>\\otdesbwiserpa.de.eu.otis.utc.com\Hungary\Invoices</value>
+      </setting>
+      <setting name="ArchivePdfFolder1" serializeAs="String">
+        <value>\\otdesbwiserp.de.eu.otis.utc.com\Hungary\Invoices\Printed</value>
+      </setting>
+      <setting name="PrintUserName1" serializeAs="String">
+        <value></value>
+      </setting>
+      <setting name="PrintUserPassword1" serializeAs="String">
+        <value></value>
+      </setting>
+      <setting name="PrintUserDomain1" serializeAs="String">
+        <value></value>
+      </setting>
+      <setting name="AllowPrintUserIdentity1" serializeAs="String">
+        <value>0</value>
+      </setting>
+      <setting name="CheckPeriodInMinutes1" serializeAs="String">
+        <value>10</value>
+      </setting>
+      <setting name="AdminMails1" serializeAs="String">
+        <value>norbert.bege@otis.com;kamil.sykora@otis.com</value>
+      </setting>
+
+      <setting name="PclConverterPath" serializeAs="String">
+        <value>C:\Install\pdf2vec_cmd\pdf2vec_cmd\pdf2vec.exe</value>
+      </setting>
+      <setting name="LpdServerIpName" serializeAs="String">
+        <value>10.68.33.53</value>
+      </setting>
+      <setting name="PrinterName" serializeAs="String">
+        <value>RICOH_Terminal</value>
+      </setting>
+      <setting name="SourcePdfFolder" serializeAs="String">
+        <value>C:\Temp\Invoice</value>
+      </setting>
+      <setting name="ArchivePdfFolder" serializeAs="String">
+        <value>C:\Temp\PdfArchive</value>
+      </setting>
+      <setting name="PrintUserName" serializeAs="String">
+        <value>syka</value>
+      </setting>
+      <setting name="PrintUserPassword" serializeAs="String">
+        <value>3fw4osV1Ezw0FewccTQ7mG5wMTvmvaQ26PGrP2Tnv0E=</value>
+      </setting>
+      <setting name="PrintUserDomain" serializeAs="String">
+        <value>CZOTIS</value>
+      </setting>
+      <setting name="AllowPrintUserIdentity" serializeAs="String">
+        <value>1</value>
+      </setting>
+      <setting name="CheckPeriodInMinutes" serializeAs="String">
+        <value>10</value>
+      </setting>
+      <setting name="AdminMails" serializeAs="String">
+        <value>kamil.sykora@otis.com</value>
+      </setting>
+      
+    </OTISCZ.Baan.InvoicePrintService.Properties.Settings>
+  </applicationSettings>
+</configuration>

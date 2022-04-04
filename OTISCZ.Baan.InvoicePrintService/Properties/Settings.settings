@@ -1,0 +1,123 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OTISCZ.Baan.InvoicePrintService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OTISCZ_Baan_InvoicePrintService_WsOtMail_OtWsMail" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://intranetcz.cz.eu.otis.utc.com/wsotmail/OtWsMail.asmx</Value>
+    </Setting>
+    <Setting Name="PclConverterPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Install\pdf2vec_cmd\pdf2vec_cmd\pdf2vec.exe</Value>
+    </Setting>
+    <Setting Name="FoxitPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AllowPclConvertion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="LpdServerIpName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">172.25.106.42</Value>
+    </Setting>
+    <Setting Name="PrinterName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\172.25.106.42\Xerox5222</Value>
+    </Setting>
+    <Setting Name="SourcePdfFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\otdesbwiserpa.de.eu.otis.utc.com\Hungary\Invoices</Value>
+    </Setting>
+    <Setting Name="ArchivePdfFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\otdesbwiserp.de.eu.otis.utc.com\Hungary\Invoices\Printed</Value>
+    </Setting>
+    <Setting Name="AllowMoveToArchive" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="PrintUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">
+            </Value>
+    </Setting>
+    <Setting Name="PrintUserPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">
+            </Value>
+    </Setting>
+    <Setting Name="PrintUserDomain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">
+            </Value>
+    </Setting>
+    <Setting Name="AllowPrintUserIdentity" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="FolderUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">
+            </Value>
+    </Setting>
+    <Setting Name="FolderUserPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">
+            </Value>
+    </Setting>
+    <Setting Name="FolderUserDomain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">
+            </Value>
+    </Setting>
+    <Setting Name="AllowFolderUserIdentity" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CheckPeriodInMinutes" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="AdminMails" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">norbert.bege@otis.com;kamil.sykora@otis.com</Value>
+    </Setting>
+    <Setting Name="PclConverterPath1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Install\pdf2vec_cmd\pdf2vec_cmd\pdf2vec.exe</Value>
+    </Setting>
+    <Setting Name="FoxitPath1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AllowPclConvertion1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="LpdServerIpName1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.68.33.53</Value>
+    </Setting>
+    <Setting Name="PrinterName1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RICOH_Terminal</Value>
+    </Setting>
+    <Setting Name="SourcePdfFolder1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Temp\Invoice</Value>
+    </Setting>
+    <Setting Name="ArchivePdfFolder1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Temp\PdfArchive</Value>
+    </Setting>
+    <Setting Name="AllowMoveToArchive1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PrintUserName1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">syka</Value>
+    </Setting>
+    <Setting Name="PrintUserPassword1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">M3Ryz4pNtBWiQitCEb3iZw==</Value>
+    </Setting>
+    <Setting Name="PrintUserDomain1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CZOTIS</Value>
+    </Setting>
+    <Setting Name="AllowPrintUserIdentity1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="FolderUserName1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">autobom</Value>
+    </Setting>
+    <Setting Name="FolderUserPassword1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">M3Ryz4pNtBWiQitCEb3iZw==</Value>
+    </Setting>
+    <Setting Name="FolderUserDomain1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CZOTIS</Value>
+    </Setting>
+    <Setting Name="AllowFolderUserIdentity1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CheckPeriodInMinutes1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="AdminMails1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">kamil.sykora@otis.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
